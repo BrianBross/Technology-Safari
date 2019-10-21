@@ -1,0 +1,43 @@
+/* @import url("color_scheme.css"); */
+
+:root {
+    --accent: #B9D989;
+    --dark: #372D21;
+    --light: #F9F8F5;
+    --primary-action: #F47048;    
+    --secondary-action: #5DB2C3;    
+}
+
+.footer {
+    background-color: var(--dark);
+    color: var(--light);
+    grid-area: footer-area;
+}
+
+.main__header {
+    background-color: var(--dark);
+    color: var(--light);
+    grid-area: header-area;
+}
+
+.main__content {
+    background-color: var(--light);
+    color: var(--dark);
+    grid-area: content-area;
+}
+
+.main__wrapper {
+    grid-template-areas: header-area menu-area content-area footer-area;
+    grid-template-rows: 10% 5% 75% 10%;
+
+}
+
+.nav {
+    background-color: var(--dark);
+    grid-area: menu-area;
+}
+
+.nav__list-item {
+    color: var(--accent);
+    text-decoration: none;
+}
