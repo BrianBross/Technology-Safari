@@ -1,6 +1,12 @@
 /* @import url("color_scheme.css"); */
 
-:root {
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
     --accent: #B9D989;
     --dark: #372D21;
     --light: #F9F8F5;
@@ -9,6 +15,24 @@
 }
 
 .footer {
+    align-items: center;
+    background-color: var(--dark);
+    display: flex;
+    height: 3rem;
+    justify-content: center;
+    color: var(--light);
+}
+
+.hero__image {
+    max-width: 100%;
+    height: auto;
+
+}
+
+img {
+    max-width: 10%;
+    height: auto;
+
     background-color: var(--dark);
     color: var(--light);
     grid-area: footer-area;
@@ -29,7 +53,7 @@
 .main__wrapper {
     grid-template-areas: header-area menu-area content-area footer-area;
     grid-template-rows: 10% 5% 75% 10%;
-
+    
 }
 
 .nav {
@@ -40,4 +64,11 @@
 .nav__list-item {
     color: var(--accent);
     text-decoration: none;
+}
+
+@media( max-width: 500px ) {
+img {
+    max-width: 10%;
+    height: auto;
+}
 }
