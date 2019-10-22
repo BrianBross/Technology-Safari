@@ -32,6 +32,10 @@ html {
 img {
     max-width: 10%;
     height: auto;
+
+    background-color: var(--dark);
+    color: var(--light);
+    grid-area: footer-area;
 }
 
 .main__header {
