@@ -1,0 +1,118 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    --accent: #B9D989;
+    --dark: #372D21;
+    --light: #F9F8F5;
+    --primary-action: #F47048;    
+    --secondary-action: #5DB2C3;    
+}
+
+.dt-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 10px;
+}
+
+form.search-form input[type=text] {
+    padding: 6px;
+    font-size: 12px;
+    border: 1px;;
+    float: left;
+    width: 80%;
+    background: var(--light);
+  }
+  
+  form.search-form button {
+    float: left;
+    width: 20%;
+    padding: 6px;
+    background: var(--secondary-action);
+    color: white;
+    font-size: 12px;
+    border: 1px;
+    cursor: pointer;
+  }
+  
+  form.search-form button:hover {
+    background: var(--primary-action);
+  }
+  
+  form.search-form::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+.header-main{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-template-rows: repeat(2, auto);
+    grid-template-areas: "properties home tickets" "nav nav nav";
+}
+
+.header-main__donate{
+    padding: 8px;
+    margin: 20px;
+    background-color: var(--secondary-action);
+}
+
+.header-main__tickets{
+    padding: 8px;
+    margin: 20px;
+    background-color: var(--primary-action);
+}
+
+.header-main__dt{
+    display: grid;
+    grid-area: tickets;
+}
+
+.header-main__navigation{
+    display: grid;
+    grid-area: nav;
+    grid-column: span 3;
+}
+
+.header-main__properties-item{
+    padding: 3px;
+}
+
+.header-main__zoo-home{
+    display: grid;
+    grid-area: home;
+}
+
+.image-icon {
+    max-height: 80px;
+    max-width: 80px;
+}
+
+.logo-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.nav-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.properties-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px;
+}
+
