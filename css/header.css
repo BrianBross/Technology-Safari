@@ -4,10 +4,18 @@
     padding: 0;
 }
 
+a{
+    color: var(--accent);
+    text-decoration: none;
+}
+
+a:hover{
+    color: var(--secondary-action);
+}
+
 body{
     background-image: url("https://columbuszoo.org/Media/images/default-source/default-album/zooentrance-grahms-jonescolumbuszooandaquarium(1)4c6ad232bd2f67d7bdc2ff0000bf4b43.jpg?sfvrsn=e45b5a6_0");
     background-size: cover;
-    background-color: pink;
 }
 
 html {
@@ -15,7 +23,8 @@ html {
     --dark: #372D21;
     --light: #F9F8F5;
     --primary-action: #F47048;    
-    --secondary-action: #5DB2C3;    
+    --secondary-action: #5DB2C3; 
+    font: 20px/1;   
 }
 
 form.search-form input[type=text] {
@@ -28,6 +37,7 @@ form.search-form input[type=text] {
   }
   
   form.search-form button {
+    background-image: url("../images/searchicon.jpg");
     float: left;
     width: 20%;
     padding: 6px;
@@ -68,6 +78,7 @@ form.search-form input[type=text] {
     align-items: center;
     justify-content: flex-start;
     padding: 10px;
+    font-size: .8rem;
 }
 
 .header-main__ticketsbutton{
@@ -88,7 +99,7 @@ form.search-form input[type=text] {
 .header-main__navigation{
     grid-area: nav;
     grid-column: span 3;
-    /* HERE */
+    font-size: 2rem;
 }
 
 .header-main__properties-item{
@@ -126,7 +137,6 @@ form.search-form input[type=text] {
 }
 
 .search-button{
-    background-image: url("searchicon.jpg");
-    height: 8px;
-    width: 8px;
+    background-image: url("../images/searchicon.jpg");
+    height: 100%;
 }
