@@ -137,6 +137,5 @@ form.search-form input[type=text] {
 }
 
 .search-button{
-    background-image: url("../images/searchicon.jpg");
-    height: 100%;
+    height: 1rem;
 }
