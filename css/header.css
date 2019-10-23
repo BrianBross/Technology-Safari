@@ -18,14 +18,6 @@ html {
     --secondary-action: #5DB2C3;    
 }
 
-.dt-container{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: flex-end;
-    padding: 10px;
-}
-
 form.search-form input[type=text] {
     padding: 6px;
     font-size: 12px;
@@ -63,36 +55,55 @@ form.search-form input[type=text] {
     grid-template-areas: "properties home tickets" "nav nav nav";
 }
 
-.header-main__donate{
+.header-main__donatebutton{
     padding: 8px;
     margin: 20px;
     background-color: var(--secondary-action);
 }
 
-.header-main__tickets{
+.header-main__properties{
+    grid-area: properties;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px;
+}
+
+.header-main__ticketsbutton{
     padding: 8px;
     margin: 20px;
     background-color: var(--primary-action);
 }
 
-.header-main__dt{
-    display: grid;
+.header-main__tickets{
     grid-area: tickets;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 10px;
 }
 
 .header-main__navigation{
-    display: grid;
     grid-area: nav;
     grid-column: span 3;
+    /* HERE */
 }
 
 .header-main__properties-item{
     padding: 3px;
+    display: flex;
+    justify-content: center;
 }
 
 .header-main__zoo-home{
-    display: grid;
     grid-area: home;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
 }
 
 .image-icon {
@@ -112,14 +123,6 @@ form.search-form input[type=text] {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-}
-
-.properties-container{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: flex-start;
-    padding: 10px;
 }
 
 .search-button{
