@@ -4,6 +4,12 @@
     padding: 0;
 }
 
+body{
+    background-image: url("herofrontgate.jpg");
+    background-size: cover;
+    background-color: pink;
+}
+
 html {
     --accent: #B9D989;
     --dark: #372D21;
@@ -52,7 +58,7 @@ form.search-form input[type=text] {
 
 .header-main{
     display: grid;
-    grid-template-columns: repeat(3, auto);
+    grid-template-columns: 45% 10% 45%;
     grid-template-rows: repeat(2, auto);
     grid-template-areas: "properties home tickets" "nav nav nav";
 }
@@ -117,7 +123,7 @@ form.search-form input[type=text] {
 }
 
 .search-button{
-    background-image: url("../Technology-Safari/searchicon.jpg");
+    background-image: url("searchicon.jpg");
     height: 8px;
     width: 8px;
 }
