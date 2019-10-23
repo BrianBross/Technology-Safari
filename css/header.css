@@ -116,3 +116,8 @@ form.search-form input[type=text] {
     padding: 10px;
 }
 
+.search-button{
+    background-image: url("../Technology-Safari/searchicon.jpg");
+    height: 8px;
+    width: 8px;
+}
