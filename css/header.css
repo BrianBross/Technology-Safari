@@ -13,9 +13,10 @@ a:hover{
     color: var(--secondary-action);
 }
 
-body{
-    background-image: url("https://columbuszoo.org/Media/images/default-source/default-album/zooentrance-grahms-jonescolumbuszooandaquarium(1)4c6ad232bd2f67d7bdc2ff0000bf4b43.jpg?sfvrsn=e45b5a6_0");
-    background-size: cover;
+.hero-image-container{
+    /* "https://columbuszoo.org/Media/images/default-source/default-album/zooentrance-grahms-jonescolumbuszooandaquarium(1)4c6ad232bd2f67d7bdc2ff0000bf4b43.jpg?sfvrsn=e45b5a6_0" */
+    background-size: 90vw;
+    width: 90vw;
 }
 
 html {
