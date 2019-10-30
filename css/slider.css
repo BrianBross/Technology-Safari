@@ -5,13 +5,14 @@
     padding:0px; 
     margin:0px; 
     background-color:#fff;
-    font-family:arial,helvetica,sans-serif,verdana,'Open Sans'
+    font-family:arial,helvetica,sans-serif,verdana,'Open Sans';
+    background-image: url("../images/zoo-background.jpg");
 }
 
 /*jssor slider loading skin spin css*/
 .jssorl-009-spin img {
     animation-name: jssorl-009-spin;
-    animation-duration: 2.2s;
+    animation-duration: 2s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
 }
