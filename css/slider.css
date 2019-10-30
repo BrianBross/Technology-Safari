@@ -1,0 +1,140 @@
+
+
+.wrapper{
+    position:absolute;
+    padding:0px; 
+    margin:0px; 
+    background-color:#fff;
+    font-family:arial,helvetica,sans-serif,verdana,'Open Sans';
+    background-image: url("../images/zoo-background.jpg");
+}
+
+/*jssor slider loading skin spin css*/
+.jssorl-009-spin img {
+    animation-name: jssorl-009-spin;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes jssorl-009-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+/*jssor slider bullet skin 051 css*/
+.jssorb051 .i {
+    position:absolute;
+    cursor:pointer;
+}
+
+.jssorb051 .i .b {
+    fill:#fff;
+    fill-opacity:0.5;
+}
+
+.jssorb051 .i:hover .b {
+    fill-opacity:.7;
+}
+
+.jssorb051 .iav .b {
+    fill-opacity: 1;
+}
+
+.jssorb051 .i.idn {
+    opacity:.3;
+}
+
+/*jssor slider arrow skin 051 css*/
+.jssora051-left {
+    width:65px;
+    height:65px;
+    top:0px;
+    left:35px;
+    display:block;
+    position:absolute;
+    cursor:pointer;
+}
+
+.jssora051-left .a {
+    fill:none;
+    stroke:#fff;
+    stroke-width:360;
+    stroke-miterlimit:10;
+}
+
+.jssora051-left:hover {
+    opacity:.8;
+}
+
+.jssora051-left.jssora051dn {
+    opacity:.5;
+}
+
+.jssora051-left.jssora051ds {
+    opacity:.3;
+    pointer-events:none;
+}
+
+.jssora051-right {
+    width:65px;
+    height:65px;
+    top:0px;
+    right:35px;
+    display:block;
+    position:absolute;
+    cursor:pointer;
+}
+
+.jssora051-right .a {
+    fill:none;
+    stroke:#fff;
+    stroke-width:360;
+    stroke-miterlimit:10;
+}
+
+.jssora051-right:hover {
+    opacity:.8;
+}
+
+.jssora051-right.jssora051dn {
+    opacity:.5;
+}
+
+.jssora051-right.jssora051ds {
+    opacity:.3;
+    pointer-events:none;
+}
+
+#jssor_1{
+    z-index:0;
+    position:absolute;
+    margin:0 auto;
+    top:0px;
+    left:0px;
+    width:980px;
+    height:380px;
+    overflow:hidden;
+    visibility:hidden;
+}
+
+.jssorl-009-spin {
+    position:absolute;
+    top:0px;
+    left:0px;
+    width:100%;
+    height:100%;
+    text-align:center;
+    background-color:rgba(0,0,0,0.7);
+}
+
+.slides-container {
+    cursor:default;
+    position:relative;
+    top:0px;
+    left:0px;
+    width:980px;
+    height:380px;
+    overflow:hidden;
+}
+
