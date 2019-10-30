@@ -13,6 +13,12 @@ a:hover{
     color: var(--secondary-action);
 }
 
+body {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+}
+
 .hero-image-container{
     /* "https://columbuszoo.org/Media/images/default-source/default-album/zooentrance-grahms-jonescolumbuszooandaquarium(1)4c6ad232bd2f67d7bdc2ff0000bf4b43.jpg?sfvrsn=e45b5a6_0" */
     background-size: 90vw;
@@ -60,6 +66,8 @@ form.search-form input[type=text] {
   }
 
 .header-main{
+    z-index: 1;
+    position: relative;
     display: grid;
     grid-template-columns: 45% 10% 45%;
     grid-template-rows: repeat(2, auto);
@@ -100,7 +108,13 @@ form.search-form input[type=text] {
 .header-main__navigation{
     grid-area: nav;
     grid-column: span 3;
-    font-size: 2rem;
+    font-size: 1.2rem;
+}
+
+.header-main__navigation-item {
+    margin: 2.5rem;
+    padding: 1.5rem;
+    text-shadow: 2px 2px 3px var(--accent);
 }
 
 .header-main__properties-item{
