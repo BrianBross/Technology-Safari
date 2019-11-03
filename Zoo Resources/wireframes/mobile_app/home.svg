@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:p="http://www.evolus.vn/Namespace/Pencil" xmlns:pencil="http://www.evolus.vn/Namespace/Pencil" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:rdfa="http://docs.oasis-open.org/opendocument/meta/rdfa#" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:regexp="http://exslt.org/regular-expressions" xmlns:em="http://exslt.org/math" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="568" height="525" id="exportedSVG" version="1.1" pencil:version="1.2.2" sodipodi:docname="WCCI_Technology-Safari_Mockups"><g inkscape:label="Home" inkscape:groupmode="layer" id="layer_home"><g><rect x="0" y="0" width="568" height="525" fill="none"/><g p:type="Shape" p:def="Evolus.Common:RoundedRectV2" id="c9dc45e2143b4007998277956dfc51ff" transform="matrix(1,0,0,1,5,5)"><p:metadata><p:property name="box">294,515</p:property><p:property name="withBlur">false</p:property><p:property name="radius">0,0</p:property><p:property name="textPadding">0,64.375</p:property><p:property name="fillColor">#FFFFFF00</p:property><p:property name="strokeColor">#000066FF</p:property><p:property name="strokeStyle">2|</p:property><p:property name="textContent">
+                </p:property><p:property name="textFont">"Liberation Sans",Arial,sans-serif|normal|normal|13px|none</p:property><p:property name="textColor">#000000FF</p:property><p:property name="textAlign">1,1</p:property></p:metadata>
+
+            <defs>
+                <rect width="292" height="513" rx="0" ry="0" x="0" y="0" style="stroke-width: 2; fill: rgb(255, 255, 255); fill-opacity: 0; stroke: rgb(0, 0, 102); stroke-opacity: 1;" p:name="rrRect" id="cdd071c9db2943d8ae5fe2a7fa762bb8" transform="translate(1,1)"/>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="shadingFilter" id="d0195e67e7b74e8fb496f516e0564482">
+                    <feGaussianBlur stdDeviation="1" in="SourceAlpha"/>
+                </filter>
+                <clipPath p:name="textClipPath" id="f1df9969c0ae4645b7c2c8bf09516858">
+                    <rect p:name="textClipPathRect" id="d895dda81c5e4adc9c36c490d3818f36" x="64.375" y="64.375" width="165.25" height="386.25"/>
+                </clipPath>
+            </defs>
+            <use xlink:href="#cdd071c9db2943d8ae5fe2a7fa762bb8" transform="translate(2, 2)" p:filter="url(#d0195e67e7b74e8fb496f516e0564482)" style="opacity: 0.5; visibility: hidden; display: none;" p:heavy="true" p:name="bgCopy" id="52e1707cbeac4981802bead0dc3165a0"/>
+            <use xlink:href="#cdd071c9db2943d8ae5fe2a7fa762bb8"/>
+            <g clip-path="url(#f1df9969c0ae4645b7c2c8bf09516858)" p:name="text" id="354d5720fa87401f85c8a16471ee79bf" dominant-baseline="auto" style="font-family: &quot;Liberation Sans&quot;, Arial, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; fill: rgb(0, 0, 0); fill-opacity: 1; color: rgb(0, 0, 0);"><g transform="translate(0,193)"><text/></g></g>
+        </g><g p:type="Shape" p:def="Evolus.Common:RoundedRect" id="b9bc1352932943279d85440fa88933d8" transform="matrix(1,0,0,1,32.125,21.3125)"><p:metadata><p:property name="box">220.3125,117.5</p:property><p:property name="withBlur">false</p:property><p:property name="radius">0,0</p:property><p:property name="textPadding">0,14.6875</p:property><p:property name="fillColor">#FFFFFFFF</p:property><p:property name="strokeColor">#1B3280FF</p:property><p:property name="strokeStyle">2|</p:property><p:property name="textContent">
+                </p:property><p:property name="textFont">"Liberation Sans",Arial,sans-serif|normal|normal|13px|none</p:property><p:property name="textColor">#000000FF</p:property><p:property name="textAlign">1,1</p:property></p:metadata>
+
+            <defs>
+                <rect width="218.313" height="115.5" rx="0" ry="0" x="0" y="0" style="stroke-width: 2; fill: rgb(255, 255, 255); fill-opacity: 1; stroke: rgb(27, 50, 128); stroke-opacity: 1;" p:name="rrRect" id="4dc96974fcbb45b6bf51601e1f20ec13" transform="translate(1,1)"/>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="shadingFilter" id="83b24805da124f2cb2a397dd9300b868">
+                    <feGaussianBlur stdDeviation="1" in="SourceAlpha"/>
+                </filter>
+            </defs>
+            <use xlink:href="#4dc96974fcbb45b6bf51601e1f20ec13" transform="translate(2, 2)" p:filter="url(#83b24805da124f2cb2a397dd9300b868)" style="opacity: 0.5; visibility: hidden; display: none;" p:heavy="true" p:name="bgCopy" id="a886d56a92bc4646bc588e386e8a17f4"/>
+            <use xlink:href="#4dc96974fcbb45b6bf51601e1f20ec13"/>
+            <foreignObject x="14.6875" y="59" width="190.938" height="0" p:name="text" id="482a849624f24be08e87bd2a1e14d1a0" style="font-family: &quot;Liberation Sans&quot;, Arial, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; fill: rgb(0, 0, 0); fill-opacity: 1; color: rgb(0, 0, 0); text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml">
+                </div></foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.GTK.Widgets:Button" id="bbf4cc4baaed42228db183ce2fed0cc2" transform="matrix(1,0,0,1,33,201.0625)"><p:metadata><p:property name="box">221.125,41.1875</p:property><p:property name="buttonText">SIGN IN</p:property><p:property name="textColor">#000000FF</p:property><p:property name="textFont">Calibri|bold|normal|12px|none</p:property><p:property name="textAlign">1,1</p:property><p:property name="disabled">false</p:property></p:metadata>
+            
+            <defs>
+                <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" p:name="linearFill" id="1d3a5c0462d743ca848377c478153f15">
+                    <stop style="stop-color: rgb(250, 250, 250); stop-opacity: 1;" offset="0" p:name="stop1" id="c98de97e6f3c461f9a4f97f37e40a069"/>
+                    <stop style="stop-color: rgb(235, 235, 235); stop-opacity: 1;" offset="0.7" p:name="stop2" id="fac6461e08e84e2ab9f7d8c58b205fa4"/>
+                    <stop style="stop-color: rgb(252, 252, 252); stop-opacity: 1;" offset="1" p:name="stop3" id="d18c4c818a6b4d528c67474cdd5865a7"/>
+                </linearGradient>
+            </defs>
+            <rect width="220.125" height="40.1875" rx="3" ry="3" x="0.5" y="0.5" style="fill: url(&quot;#1d3a5c0462d743ca848377c478153f15&quot;); stroke: rgb(161, 150, 133); stroke-width: 1; stroke-linejoin: round; stroke-opacity: 1;" p:name="rect" id="bd4a761c870c4476a620ac3c1823fe2c"/>
+            <text x="31.5" y="17.25" style="font-size: 12px; font-style: normal; font-weight: bold; text-align: left; text-anchor: start; dominant-baseline: central; fill: rgb(0, 0, 0); font-family: Calibri; fill-opacity: 1; text-decoration: none;" xml:space="preserve" p:name="text" id="02d8a88e42da468293d9b88ac202e90f" transform="translate(60,3)">SIGN IN</text>
+        </g><g p:type="Shape" p:def="Evolus.GTK.Widgets:Button" id="49f2b85a91024dab9ad68fbe2525a36c" transform="matrix(1,0,0,1,32,288.0625)"><p:metadata><p:property name="box">218.125,41.1875</p:property><p:property name="buttonText">REGISTER</p:property><p:property name="textColor">#000000FF</p:property><p:property name="textFont">Calibri|bold|normal|12px|none</p:property><p:property name="textAlign">1,1</p:property><p:property name="disabled">false</p:property></p:metadata>
+            
+            <defs>
+                <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" p:name="linearFill" id="656b3000a21e41b0b926207953962fa2">
+                    <stop style="stop-color: rgb(250, 250, 250); stop-opacity: 1;" offset="0" p:name="stop1" id="25b86a5b2a0b499a84aaa87840f5efc3"/>
+                    <stop style="stop-color: rgb(235, 235, 235); stop-opacity: 1;" offset="0.7" p:name="stop2" id="e9fb36ec789146e0ab138213b36d4f14"/>
+                    <stop style="stop-color: rgb(252, 252, 252); stop-opacity: 1;" offset="1" p:name="stop3" id="c3d37ec9cdd648208927e6694e8f3247"/>
+                </linearGradient>
+            </defs>
+            <rect width="217.125" height="40.1875" rx="3" ry="3" x="0.5" y="0.5" style="fill: url(#656b3000a21e41b0b926207953962fa2); stroke: rgb(161, 150, 133); stroke-width: 1; stroke-linejoin: round; stroke-opacity: 1;" p:name="rect" id="9a99d2aec94449fc8fb23f05cb3a234a"/>
+            <text x="31.5" y="17.25" style="font-size: 12px; font-style: normal; font-weight: bold; text-align: left; text-anchor: start; dominant-baseline: central; fill: rgb(0, 0, 0); font-family: Calibri; fill-opacity: 1; text-decoration: none;" xml:space="preserve" p:name="text" id="22ff963b28e74e4cb19a42a8195a49d4" transform="translate(54,3)">REGISTER</text>
+        </g><g p:type="Shape" p:def="Evolus.GTK.Widgets:Label" id="05eccb27aef8417f8ef1b00c353ac2ee" transform="matrix(1,0,0,1,133,74)"><p:metadata><p:property name="disabled">false</p:property><p:property name="label">logo</p:property><p:property name="textColor">#000000FF</p:property><p:property name="textFont">Calibri|normal|normal|12px|none</p:property></p:metadata>
+              <text y="9.0077095" x="17.999992" style="font-size: 12px; font-style: normal; font-weight: normal; text-align: left; text-anchor: start; dominant-baseline: central; fill: rgb(0, 0, 0); font-family: Calibri; fill-opacity: 1; text-decoration: none;" xml:space="preserve" p:name="text" id="52f7172e6b7c4b1f8ab9556f3d9b72b6" transform="translate(-18,-3)">logo</text>
+        </g><g p:type="Shape" p:def="Evolus.Common:Bullet" id="65bd3126893c4bd1aed17a24d3262630" transform="matrix(1,0,0,1,263,213)"><p:metadata><p:property name="box">16,16</p:property><p:property name="withBlur">false</p:property><p:property name="fillColor">#4388CCFF</p:property><p:property name="strokeColor">#1B3280FF</p:property><p:property name="strokeStyle">2|</p:property><p:property name="textContent">&lt;span xmlns="http://www.w3.org/1999/xhtml" style="font-style: italic; font-family: Georgia;"&gt;i&lt;/span&gt;</p:property><p:property name="textFont">"Liberation Sans",Arial,sans-serif|normal|normal|13px|none</p:property><p:property name="textColor">#000000FF</p:property></p:metadata>
+
+            <defs>
+                <filter height="1.2558399" y="-0.12792" width="1.2558399" x="-0.12792" p:name="imageShading" id="1a688da293fa4b07b14e60733fa71c92">
+                    <feGaussianBlur stdDeviation="1.3325" in="SourceAlpha"/>
+                </filter>
+                <g p:name="container" id="6765a4880c0e4985b92a63185a51fb2d">
+                    <ellipse p:name="ellipse" id="4b7dc464d9564e00a971987730150321" cx="8" cy="8" rx="8" ry="8" style="fill: rgb(67, 136, 204); fill-opacity: 1; stroke: rgb(27, 50, 128); stroke-opacity: 1; stroke-width: 2;"/>
+                </g>
+            </defs>
+            <use xlink:href="#6765a4880c0e4985b92a63185a51fb2d" transform="translate(1, 1)" p:filter="url(#1a688da293fa4b07b14e60733fa71c92)" style="opacity: 0.6; visibility: hidden; display: none;" p:heavy="true" p:name="bgCopy" id="54f4ec9bad1b4f798a91b304db8a39f3"/>
+            <use xlink:href="#6765a4880c0e4985b92a63185a51fb2d"/>
+            <foreignObject x="0" y="-1" width="16" height="18" p:name="text" id="dd8709d80b304947b58bfadde2cb5a25" style="fill: rgb(0, 0, 0); fill-opacity: 1; color: rgb(0, 0, 0); font-family: &quot;Liberation Sans&quot;, Arial, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml"><span style="font-style: italic; font-family: Georgia;">i</span></div></foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.Common:arrow" id="9a94ee16f45b46f289e3524cddfc9dea" transform="matrix(1,0,0,1,288,219)"><p:metadata><p:property name="startPin">0,0</p:property><p:property name="endPin">43,-18</p:property><p:property name="withStartArrow">true</p:property><p:property name="withEndArrow">true</p:property><p:property name="mode">curvy</p:property><p:property name="detached">false</p:property><p:property name="strokeColor">#1B3280FF</p:property><p:property name="strokeStyle">2|5,5</p:property><p:property name="textContent"/><p:property name="textFont">"Liberation Sans",Arial,sans-serif|normal|normal|13px|none</p:property><p:property name="textColor">#000000FF</p:property><p:property name="textAlign">1,1</p:property></p:metadata>
+            <defs>
+                <path style="stroke-linejoin: round; fill: none;" p:name="path" id="6b831f1e55644e3ab178d90b164c7a6f" d="M 7 3 L 0 0 L 3 -7 M 0 0 C 27 -12 15 -7 43 -18 M 36 -21 L 43 -18 L 40 -11"/>
+            </defs>
+            <use xlink:href="#6b831f1e55644e3ab178d90b164c7a6f" stroke-width="10" stroke-opacity="0" stroke="#FF0000"/>
+            <use xlink:href="#6b831f1e55644e3ab178d90b164c7a6f" p:name="outArrow1" id="d1333b8807844d168509e3f105df6237" style="stroke: rgb(27, 50, 128); stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 5, 5;"/>
+            <text p:name="text" id="6628f7df7b8047a88172b7c12bf97c28" style="fill: rgb(0, 0, 0); fill-opacity: 1; font-family: &quot;Liberation Sans&quot;, Arial, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;">
+                <textPath xlink:href="#6b831f1e55644e3ab178d90b164c7a6f" startOffset="50%" text-anchor="middle" alignment-baseline="middle">
+                    <tspan dy="-4.333333333333333" p:name="textSpan" id="b0d379f496c843a489b00befc85df334" dx="0"/>
+                </textPath>
+            </text>
+        </g><g p:type="Shape" p:def="Evolus.Common:RichTextBoxV2" id="43ea16a1fe874c86bdb87e6dbc3f153f" transform="matrix(1,0,0,1,345,186)"><p:metadata><p:property name="width">200,0</p:property><p:property name="fixedWidth">false</p:property><p:property name="textContent">&lt;span xmlns="http://www.w3.org/1999/xhtml" style="font-style: italic; font-family: Gadugi;"&gt;Sign in with your columbuszoo.org &lt;br /&gt;username and password, or your &lt;br /&gt;Columbus Zoo Membership ID.&lt;/span&gt;</p:property><p:property name="textFont">"Liberation Sans",Arial,sans-serif|normal|normal|13px|none</p:property><p:property name="textColor">#000000FF</p:property><p:property name="customStyle">
+                </p:property></p:metadata>
+
+            <foreignObject x="0" y="0" width="203" height="57" p:name="htmlObject" id="1ee470d4f8254da6b7d808c2ebc7e7bc" style="color: rgb(0, 0, 0); font-family: &quot;Liberation Sans&quot;, Arial, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="9985074727e84ed9bfc1167ebb6c647a" style="display: inline-block; white-space: nowrap; text-decoration: none;"><div><span style="font-style: italic; font-family: Gadugi;">Sign in with your columbuszoo.org <br />username and password, or your <br />Columbus Zoo Membership ID.</span></div></div>
+            </foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.Common:Bullet" id="66b5fae784f5477fa700ce61f9816c92" transform="matrix(1,0,0,1,263,300)"><p:metadata><p:property name="box">16,16</p:property><p:property name="withBlur">false</p:property><p:property name="fillColor">#4388CCFF</p:property><p:property name="strokeColor">#1B3280FF</p:property><p:property name="strokeStyle">2|</p:property><p:property name="textContent">&lt;span xmlns="http://www.w3.org/1999/xhtml" style="font-style: italic; font-family: Georgia;"&gt;i&lt;/span&gt;</p:property><p:property name="textFont">"Liberation Sans",Arial,sans-serif|normal|normal|13px|none</p:property><p:property name="textColor">#000000FF</p:property></p:metadata>
+
+            <defs>
+                <filter height="1.2558399" y="-0.12792" width="1.2558399" x="-0.12792" p:name="imageShading" id="3b9009dcb625404ab5d65f490ae49ae0">
+                    <feGaussianBlur stdDeviation="1.3325" in="SourceAlpha"/>
+                </filter>
+                <g p:name="container" id="9290b3907c884101958d5e8831f8d42e">
+                    <ellipse p:name="ellipse" id="a79a4991dced4e309d98c181b3a0d2bb" cx="8" cy="8" rx="8" ry="8" style="fill: rgb(67, 136, 204); fill-opacity: 1; stroke: rgb(27, 50, 128); stroke-opacity: 1; stroke-width: 2;"/>
+                </g>
+            </defs>
+            <use xlink:href="#9290b3907c884101958d5e8831f8d42e" transform="translate(1, 1)" p:filter="url(#3b9009dcb625404ab5d65f490ae49ae0)" style="opacity: 0.6; visibility: hidden; display: none;" p:heavy="true" p:name="bgCopy" id="12d97efa7dae495f88674fa23a032b74"/>
+            <use xlink:href="#9290b3907c884101958d5e8831f8d42e"/>
+            <foreignObject x="0" y="-1" width="16" height="18" p:name="text" id="1b676eb320824ccca8400a6711d50c58" style="fill: rgb(0, 0, 0); fill-opacity: 1; color: rgb(0, 0, 0); font-family: &quot;Liberation Sans&quot;, Arial, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml"><span style="font-style: italic; font-family: Georgia;">i</span></div></foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.Common:arrow" id="9af7f0be06c94860888f32e60567a942" transform="matrix(1,0,0,1,288,304)"><p:metadata><p:property name="startPin">0,0</p:property><p:property name="endPin">46,-20</p:property><p:property name="withStartArrow">true</p:property><p:property name="withEndArrow">true</p:property><p:property name="mode">curvy</p:property><p:property name="detached">false</p:property><p:property name="strokeColor">#1B3280FF</p:property><p:property name="strokeStyle">2|5,5</p:property><p:property name="textContent"/><p:property name="textFont">"Liberation Sans",Arial,sans-serif|normal|normal|13px|none</p:property><p:property name="textColor">#000000FF</p:property><p:property name="textAlign">1,1</p:property></p:metadata>
+            <defs>
+                <path style="stroke-linejoin: round; fill: none;" p:name="path" id="ee7c585521e74e4d942c1e469013a412" d="M 7 3 L 0 0 L 3 -7 M 0 0 C 27 -12 18 -8 46 -20 M 39 -23 L 46 -20 L 43 -13"/>
+            </defs>
+            <use xlink:href="#ee7c585521e74e4d942c1e469013a412" stroke-width="10" stroke-opacity="0" stroke="#FF0000"/>
+            <use xlink:href="#ee7c585521e74e4d942c1e469013a412" p:name="outArrow1" id="2d66560f4f03404ba2b56a2109a5f731" style="stroke: rgb(27, 50, 128); stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 5, 5;"/>
+            <text p:name="text" id="4ebf71fc185a4dcc8b3e5e1b7ea9a3ef" style="fill: rgb(0, 0, 0); fill-opacity: 1; font-family: &quot;Liberation Sans&quot;, Arial, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;">
+                <textPath xlink:href="#ee7c585521e74e4d942c1e469013a412" startOffset="50%" text-anchor="middle" alignment-baseline="middle">
+                    <tspan dy="-4.333333333333333" p:name="textSpan" id="1c1ab28b16af40bfbbde9785f49a2e16" dx="0"/>
+                </textPath>
+            </text>
+        </g><g p:type="Shape" p:def="Evolus.Common:RichTextBoxV2" id="bfb18ad1b5bc41a2b65e655ca8b0e812" transform="matrix(1,0,0,1,349,268)"><p:metadata><p:property name="width">200,0</p:property><p:property name="fixedWidth">false</p:property><p:property name="textContent">&lt;span xmlns="http://www.w3.org/1999/xhtml" style="font-family: Gadugi; font-style: italic;"&gt;Create a new columbuszoo.org login &lt;br /&gt;using your email address, Facebook, &lt;br /&gt;or Google Account.&lt;/span&gt;</p:property><p:property name="textFont">"Liberation Sans",Arial,sans-serif|normal|normal|13px|none</p:property><p:property name="textColor">#000000FF</p:property><p:property name="customStyle">
+                </p:property></p:metadata>
+
+            <foreignObject x="0" y="0" width="214" height="57" p:name="htmlObject" id="899a20eb8fb441d5946f43a39ebf4e21" style="color: rgb(0, 0, 0); font-family: &quot;Liberation Sans&quot;, Arial, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="da6a5e49c7bf47d7804082f94ae95d91" style="display: inline-block; white-space: nowrap; text-decoration: none;"><div><span style="font-family: Gadugi; font-style: italic;">Create a new columbuszoo.org login <br />using your email address, Facebook, <br />or Google Account.</span></div></div>
+            </foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.BasicWebElements:htmlLink" id="181233bb50c84b01a47c5a9b90393a35" transform="matrix(1,0,0,1,85,249)"><p:metadata><p:property name="textContent">Forgot username or password?</p:property><p:property name="textFont">Gadugi|normal|normal|9px|none</p:property><p:property name="textColor">#0000FFFF</p:property><p:property name="customStyle"/></p:metadata>
+
+            <foreignObject x="0" y="0" width="123" height="12" p:name="htmlObject" id="c468d7f046b04309861347e659bb6872" style="color: rgb(0, 0, 255); font-family: Gadugi; font-size: 9px; font-weight: normal; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="10fd8f377437447e933f3d7eb1634229" style="white-space: nowrap; text-decoration: underline; display: inline-block !important; "><div>Forgot username or password?</div></div>
+            </foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.BasicWebElements:htmlLink" id="25e5bdfc47ca4d52bf99545541c735fe" transform="matrix(1,0,0,1,108,486)"><p:metadata><p:property name="textContent">Show me the legalese!</p:property><p:property name="textFont">Gadugi|normal|normal|9px|none</p:property><p:property name="textColor">#0000FFFF</p:property><p:property name="customStyle"/></p:metadata>
+
+            <foreignObject x="0" y="0" width="89" height="12" p:name="htmlObject" id="9317d7d3b2ae438da9a4b15814ff74a4" style="color: rgb(0, 0, 255); font-family: Gadugi; font-size: 9px; font-weight: normal; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="08271bf300714908b308d7b18a19386a" style="white-space: nowrap; text-decoration: underline; display: inline-block !important; "><div>Show me the legalese!</div></div>
+            </foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.Common:RichTextBoxV2" id="aa200358a7df4240ba5a991efc98f7fa" transform="matrix(1,0,0,1,345,29)"><p:metadata><p:property name="width">200,0</p:property><p:property name="fixedWidth">false</p:property><p:property name="textContent">&lt;span xmlns="http://www.w3.org/1999/xhtml" style="font-family: Gadugi;"&gt;Notification is pushed when you &lt;br /&gt;arrive onsite with a reminder to &lt;br /&gt;sign into the app and mark your &lt;br /&gt;parking spot location.&lt;/span&gt;</p:property><p:property name="textFont">Arial|normal|normal|13px|none</p:property><p:property name="textColor">#000000FF</p:property><p:property name="customStyle">
+                </p:property></p:metadata>
+
+            <foreignObject x="0" y="0" width="188" height="76" p:name="htmlObject" id="863f7a71dabe4251bf9d5bad48e0aacb" style="color: rgb(0, 0, 0); font-family: Arial; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="cc9cb3f8a16d49058c60f465eb67db48" style="display: inline-block; white-space: nowrap; text-decoration: none;"><div><span style="font-family: Gadugi;">Notification is pushed when you <br />arrive onsite with a reminder to <br />sign into the app and mark your <br />parking spot location.</span></div></div>
+            </foreignObject>
+        </g></g></g></svg>

@@ -1,0 +1,201 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:p="http://www.evolus.vn/Namespace/Pencil" xmlns:pencil="http://www.evolus.vn/Namespace/Pencil" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:rdfa="http://docs.oasis-open.org/opendocument/meta/rdfa#" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:regexp="http://exslt.org/regular-expressions" xmlns:em="http://exslt.org/math" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="610" height="525" id="exportedSVG" version="1.1" pencil:version="1.2.2" sodipodi:docname="WCCI_Technology-Safari_Mockups"><g inkscape:label="Outside-Park" inkscape:groupmode="layer" id="layer_outsidepark"><g><rect x="0" y="0" width="610" height="525" fill="none"/><g p:type="Shape" p:def="Evolus.Common:RoundedRectV2" id="0874df202ac348e2be1a1e8f5f175ac1" transform="matrix(1,0,0,1,5,5)"><p:metadata><p:property name="box">294,515</p:property><p:property name="withBlur">false</p:property><p:property name="radius">0,0</p:property><p:property name="textPadding">0,64.375</p:property><p:property name="fillColor">#FFFFFF00</p:property><p:property name="strokeColor">#000066FF</p:property><p:property name="strokeStyle">2|</p:property><p:property name="textContent">
+                </p:property><p:property name="textFont">"Liberation Sans",Arial,sans-serif|normal|normal|13px|none</p:property><p:property name="textColor">#000000FF</p:property><p:property name="textAlign">1,1</p:property></p:metadata>
+
+            <defs>
+                <rect width="292" height="513" rx="0" ry="0" x="0" y="0" style="stroke-width: 2; fill: rgb(255, 255, 255); fill-opacity: 0; stroke: rgb(0, 0, 102); stroke-opacity: 1;" p:name="rrRect" id="a259913274434a1f91ad01c8bccfb265" transform="translate(1,1)"/>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="shadingFilter" id="51f28f25304348afafd7b1fd12fd8d34">
+                    <feGaussianBlur stdDeviation="1" in="SourceAlpha"/>
+                </filter>
+                <clipPath p:name="textClipPath" id="ff2568ad052342fcb8d43d63f47c89d3">
+                    <rect p:name="textClipPathRect" id="0a5606f2c0394595ab001e25f8cac302" x="64.375" y="64.375" width="165.25" height="386.25"/>
+                </clipPath>
+            </defs>
+            <use xlink:href="#a259913274434a1f91ad01c8bccfb265" transform="translate(2, 2)" p:filter="url(#51f28f25304348afafd7b1fd12fd8d34)" style="opacity: 0.5; visibility: hidden; display: none;" p:heavy="true" p:name="bgCopy" id="ea9d107605e94635af02abc90794a09d"/>
+            <use xlink:href="#a259913274434a1f91ad01c8bccfb265"/>
+            <g clip-path="url(#ff2568ad052342fcb8d43d63f47c89d3)" p:name="text" id="4d028bce10494bbeb39483991ede7c85" dominant-baseline="auto" style="font-family: &quot;Liberation Sans&quot;, Arial, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; fill: rgb(0, 0, 0); fill-opacity: 1; color: rgb(0, 0, 0);"><g transform="translate(0,193)"><text/></g></g>
+        </g><g p:type="Shape" p:def="Evolus.Common:RoundedRectV2" id="480c71cc6e0d4c88bd8eb6bee3c5a46e" transform="matrix(1,0,0,1,311,5)"><p:metadata><p:property name="box">294,515</p:property><p:property name="withBlur">false</p:property><p:property name="radius">0,0</p:property><p:property name="textPadding">0,64.375</p:property><p:property name="fillColor">#FFFFFF00</p:property><p:property name="strokeColor">#000066FF</p:property><p:property name="strokeStyle">2|</p:property><p:property name="textContent">
+                </p:property><p:property name="textFont">"Liberation Sans",Arial,sans-serif|normal|normal|13px|none</p:property><p:property name="textColor">#000000FF</p:property><p:property name="textAlign">1,1</p:property></p:metadata>
+
+            <defs>
+                <rect width="292" height="513" rx="0" ry="0" x="0" y="0" style="stroke-width: 2; fill: rgb(255, 255, 255); fill-opacity: 0; stroke: rgb(0, 0, 102); stroke-opacity: 1;" p:name="rrRect" id="18312ed011714142a3f838618c257d86" transform="translate(1,1)"/>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="shadingFilter" id="f5ce42990d8a438b967fac903bf2e0ab">
+                    <feGaussianBlur stdDeviation="1" in="SourceAlpha"/>
+                </filter>
+                <clipPath p:name="textClipPath" id="a429364825dd499b850204dd6d3089c0">
+                    <rect p:name="textClipPathRect" id="51b624ddb0b2492382fc81d6ce91a13e" x="64.375" y="64.375" width="165.25" height="386.25"/>
+                </clipPath>
+            </defs>
+            <use xlink:href="#18312ed011714142a3f838618c257d86" transform="translate(2, 2)" p:filter="url(#f5ce42990d8a438b967fac903bf2e0ab)" style="opacity: 0.5; visibility: hidden; display: none;" p:heavy="true" p:name="bgCopy" id="aa52f05687f44d6db7662c62709b9743"/>
+            <use xlink:href="#18312ed011714142a3f838618c257d86"/>
+            <g clip-path="url(#a429364825dd499b850204dd6d3089c0)" p:name="text" id="a46e5d89e8804c6e836fea1582c14e66" dominant-baseline="auto" style="font-family: &quot;Liberation Sans&quot;, Arial, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; fill: rgb(0, 0, 0); fill-opacity: 1; color: rgb(0, 0, 0);"><g transform="translate(0,193)"><text/></g></g>
+        </g><g p:type="Shape" p:def="Evolus.Common:RoundedRect" id="8f4dfa30c87e4304917f59869e8c6c52" transform="matrix(1,0,0,1,529.125,24.3125)"><p:metadata><p:property name="box">58.3125,35.5</p:property><p:property name="withBlur">false</p:property><p:property name="radius">0,0</p:property><p:property name="textPadding">0,4.4375</p:property><p:property name="fillColor">#FFFFFFFF</p:property><p:property name="strokeColor">#1B3280FF</p:property><p:property name="strokeStyle">2|</p:property><p:property name="textContent">
+                </p:property><p:property name="textFont">"Liberation Sans",Arial,sans-serif|normal|normal|13px|none</p:property><p:property name="textColor">#000000FF</p:property><p:property name="textAlign">1,1</p:property></p:metadata>
+
+            <defs>
+                <rect width="56.3125" height="33.5" rx="0" ry="0" x="0" y="0" style="stroke-width: 2; fill: rgb(255, 255, 255); fill-opacity: 1; stroke: rgb(27, 50, 128); stroke-opacity: 1;" p:name="rrRect" id="c2981695cb094586af0fb90b9b1daeaf" transform="translate(1,1)"/>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="shadingFilter" id="b2cf12511045416faa2072919cd04258">
+                    <feGaussianBlur stdDeviation="1" in="SourceAlpha"/>
+                </filter>
+            </defs>
+            <use xlink:href="#c2981695cb094586af0fb90b9b1daeaf" transform="translate(2, 2)" p:filter="url(#b2cf12511045416faa2072919cd04258)" style="opacity: 0.5; visibility: hidden; display: none;" p:heavy="true" p:name="bgCopy" id="46d87b92fe5e46b29ad6d2a02ff3e558"/>
+            <use xlink:href="#c2981695cb094586af0fb90b9b1daeaf"/>
+            <foreignObject x="4.4375" y="18" width="49.4375" height="0" p:name="text" id="1a5d0f872a4549f7bc1d6d37a9c6a24f" style="font-family: &quot;Liberation Sans&quot;, Arial, sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; fill: rgb(0, 0, 0); fill-opacity: 1; color: rgb(0, 0, 0); text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml">
+                </div></foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.GTK.Widgets:Button" id="1c3fcee227cf468baf6dde460c62c67d" transform="matrix(1,0,0,1,393,195.0625)"><p:metadata><p:property name="box">117.125,40.1875</p:property><p:property name="buttonText">TICKETS</p:property><p:property name="textColor">#000000FF</p:property><p:property name="textFont">Calibri|bold|normal|12px|none</p:property><p:property name="textAlign">1,1</p:property><p:property name="disabled">false</p:property></p:metadata>
+            
+            <defs>
+                <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" p:name="linearFill" id="d95fe5f721814795bb40a9fe12d1d0b8">
+                    <stop style="stop-color: rgb(250, 250, 250); stop-opacity: 1;" offset="0" p:name="stop1" id="c9675d7421144d969d73f928afd7ccd0"/>
+                    <stop style="stop-color: rgb(235, 235, 235); stop-opacity: 1;" offset="0.7" p:name="stop2" id="80bbe964e7b0431187717f9f45248142"/>
+                    <stop style="stop-color: rgb(252, 252, 252); stop-opacity: 1;" offset="1" p:name="stop3" id="b2960bb924304668a91437b046c46163"/>
+                </linearGradient>
+            </defs>
+            <rect width="116.125" height="39.1875" rx="3" ry="3" x="0.5" y="0.5" style="fill: url(#d95fe5f721814795bb40a9fe12d1d0b8); stroke: rgb(161, 150, 133); stroke-width: 1; stroke-linejoin: round; stroke-opacity: 1;" p:name="rect" id="b5968d59c17f47489a1f090800162436"/>
+            <text x="31.5" y="17.25" style="font-size: 12px; font-style: normal; font-weight: bold; text-align: left; text-anchor: start; dominant-baseline: central; fill: rgb(0, 0, 0); font-family: Calibri; fill-opacity: 1; text-decoration: none;" xml:space="preserve" p:name="text" id="1d99bdfa50e149f18ae54a7025652bfd" transform="translate(7,3)">TICKETS</text>
+        </g><g p:type="Shape" p:def="Evolus.GTK.Widgets:Label" id="9fcbe8e0e8484531ad804b272cfd2351" transform="matrix(1,0,0,1,548,36)"><p:metadata><p:property name="disabled">false</p:property><p:property name="label">logo</p:property><p:property name="textColor">#000000FF</p:property><p:property name="textFont">Calibri|normal|normal|12px|none</p:property></p:metadata>
+              <text y="9.0077095" x="17.999992" style="font-size: 12px; font-style: normal; font-weight: normal; text-align: left; text-anchor: start; dominant-baseline: central; fill: rgb(0, 0, 0); font-family: Calibri; fill-opacity: 1; text-decoration: none;" xml:space="preserve" p:name="text" id="130d9f257a8c4afd89c78f8cf768b87c" transform="translate(-18,-3)">logo</text>
+        </g><g p:type="Shape" p:def="Evolus.BasicWebElements:htmlLink" id="c13d80869a014957ab9c96684c508e31" transform="matrix(1,0,0,1,407,485)"><p:metadata><p:property name="textContent">Show me the legalese!</p:property><p:property name="textFont">Gadugi|normal|normal|9px|none</p:property><p:property name="textColor">#0000FFFF</p:property><p:property name="customStyle"/></p:metadata>
+
+            <foreignObject x="0" y="0" width="89" height="12" p:name="htmlObject" id="61e4915c93004112a2fd4c24f616203c" style="color: rgb(0, 0, 255); font-family: Gadugi; font-size: 9px; font-weight: normal; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="0544c46080934d1aa4c4665df7bdf2ce" style="white-space: nowrap; text-decoration: underline; display: inline-block !important; "><div>Show me the legalese!</div></div>
+            </foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.Common:RichTextBoxV2" id="86448f6701dc46f7a757370cfbff12a9" transform="matrix(1,0,0,1,369,134)"><p:metadata><p:property name="width">200,0</p:property><p:property name="fixedWidth">false</p:property><p:property name="textContent">Today's hours: 10 AM - 5 PM</p:property><p:property name="textFont">Gadugi|bold|normal|13px|none</p:property><p:property name="textColor">#000000FF</p:property><p:property name="customStyle">
+                </p:property></p:metadata>
+
+            <foreignObject x="0" y="0" width="176" height="18" p:name="htmlObject" id="47ce90fb4ff84fb78b41fc38d76204df" style="color: rgb(0, 0, 0); font-family: Gadugi; font-size: 13px; font-weight: bold; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="4535a0ff1500432381e4d9548dcd16cd" style="display: inline-block; white-space: nowrap; text-decoration: none;"><div>Today's hours: 10 AM - 5 PM</div></div>
+            </foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.BasicWebElements:htmlLink" id="e7f1dbf926814200a8bb304f793a26d6" transform="matrix(1,0,0,1,376,302)"><p:metadata><p:property name="textContent">Know before you go</p:property><p:property name="textFont">Gadugi|bold|normal|12px|none</p:property><p:property name="textColor">#009900FF</p:property><p:property name="customStyle"/></p:metadata>
+
+            <foreignObject x="0" y="0" width="115" height="17" p:name="htmlObject" id="caa6e1364ff949a681a6041f5b3bcdb1" style="color: rgb(0, 153, 0); font-family: Gadugi; font-size: 12px; font-weight: bold; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="8b9ec03399714176857049348a12b0c8" style="white-space: nowrap; text-decoration: underline; display: inline-block !important; "><div>Know before you go</div></div>
+            </foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.GTK.Widgets:Button" id="dcc49a54c5614062b63e7a841fce16da" transform="matrix(1,0,0,1,330,26.0625)"><p:metadata><p:property name="box">67.125,34.1875</p:property><p:property name="buttonText">= MENU</p:property><p:property name="textColor">#000000FF</p:property><p:property name="textFont">Calibri|bold|normal|12px|none</p:property><p:property name="textAlign">1,1</p:property><p:property name="disabled">false</p:property></p:metadata>
+            
+            <defs>
+                <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" p:name="linearFill" id="b34e1ad5a70744bf9b3dcfcf12da7514">
+                    <stop style="stop-color: rgb(250, 250, 250); stop-opacity: 1;" offset="0" p:name="stop1" id="00fce466f5ec4e9fba19466bdaa04891"/>
+                    <stop style="stop-color: rgb(235, 235, 235); stop-opacity: 1;" offset="0.7" p:name="stop2" id="5b03bf0f34ad4926b750c9497ced9491"/>
+                    <stop style="stop-color: rgb(252, 252, 252); stop-opacity: 1;" offset="1" p:name="stop3" id="ae6608d89a854f95be7ae5c315cbe1ef"/>
+                </linearGradient>
+            </defs>
+            <rect width="66.125" height="33.1875" rx="3" ry="3" x="0.5" y="0.5" style="fill: url(#b34e1ad5a70744bf9b3dcfcf12da7514); stroke: rgb(161, 150, 133); stroke-width: 1; stroke-linejoin: round; stroke-opacity: 1;" p:name="rect" id="e6919adc7cbe4d05b9b9e81c06d60aa9"/>
+            <text x="31.5" y="17.25" style="font-size: 12px; font-style: normal; font-weight: bold; text-align: left; text-anchor: start; dominant-baseline: central; fill: rgb(0, 0, 0); font-family: Calibri; fill-opacity: 1; text-decoration: none;" xml:space="preserve" p:name="text" id="802706144f464080895db95399c78ddd" transform="translate(-18,0)">= MENU</text>
+        </g><g p:type="Shape" p:def="Evolus.Common:RichTextBoxV2" id="ec21d7488ab841669399dbee712e8d8c" transform="matrix(1,0,0,1,352,91)"><p:metadata><p:property name="width">200,0</p:property><p:property name="fixedWidth">false</p:property><p:property name="textContent">Headed to the park?  Plan you day:</p:property><p:property name="textFont">Gadugi|bold|normal|13px|none</p:property><p:property name="textColor">#000000FF</p:property><p:property name="customStyle">
+                </p:property></p:metadata>
+
+            <foreignObject x="0" y="0" width="213" height="18" p:name="htmlObject" id="2e183f1c8ed04cd0bf1908c6c490a954" style="color: rgb(0, 0, 0); font-family: Gadugi; font-size: 13px; font-weight: bold; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="dc7b6d033aaf4fa8933b6c4f0e3c99f9" style="display: inline-block; white-space: nowrap; text-decoration: none;"><div>Headed to the park?  Plan you day:</div></div>
+            </foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.BasicWebElements:htmlLink" id="c0afc045f3794396b7a70dd27b105e5b" transform="matrix(1,0,0,1,407,159)"><p:metadata><p:property name="textContent">Show me all hours</p:property><p:property name="textFont">Gadugi|bold|normal|10px|none</p:property><p:property name="textColor">#009900FF</p:property><p:property name="customStyle"/></p:metadata>
+
+            <foreignObject x="0" y="0" width="86" height="14" p:name="htmlObject" id="88b7521b657a425899e644039ecf82bf" style="color: rgb(0, 153, 0); font-family: Gadugi; font-size: 10px; font-weight: bold; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="0af7d8dc846c49dcb06d96d2ad054703" style="white-space: nowrap; text-decoration: underline; display: inline-block !important; "><div>Show me all hours</div></div>
+            </foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.BasicWebElements:htmlLink" id="a61176dc233a4b8f9bb1348d6a14ccaf" transform="matrix(1,0,0,1,376,346)"><p:metadata><p:property name="textContent">Learn at the Zoo</p:property><p:property name="textFont">Gadugi|bold|normal|12px|none</p:property><p:property name="textColor">#009900FF</p:property><p:property name="customStyle"/></p:metadata>
+
+            <foreignObject x="0" y="0" width="93" height="17" p:name="htmlObject" id="ced0cf4fb5254613be52611227825f26" style="color: rgb(0, 153, 0); font-family: Gadugi; font-size: 12px; font-weight: bold; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="8b10c40b2f7944f9acbad5449a49c144" style="white-space: nowrap; text-decoration: underline; display: inline-block !important; "><div>Learn at the Zoo</div></div>
+            </foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.AndroidICSHIFI:ActionBar" p:sc="Blue ActionBar" id="975dcef9b828444d88a05a71529cbc4a" transform="matrix(1,0,0,1,8,7)"><p:metadata><p:property name="box">209,510</p:property><p:property name="colorTheme">blue</p:property><p:property name="type">normal</p:property></p:metadata>
+            <g p:name="bg" id="d303c6ac2614454cb0fcd14d86968beb"><image x="0" y="0" width="209" height="7" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAHCAYAAADJTCeUAAAAFElEQVQImWOw2f60gcF469P/OAkAP90TIbB83mUAAAAASUVORK5CYII="/><image x="0" y="7" width="209" height="473" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWMw3vr0PwAFuQLNtYaHogAAAABJRU5ErkJggg=="/><image x="0" y="480" width="209" height="30" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAeCAYAAADtlXTHAAAAGklEQVQImWMw3vr0P8MgIQzW3PzPULbl9H8AcGhT+a0qedAAAAAASUVORK5CYII="/></g>
+        </g><g p:type="Shape" p:def="Evolus.GTK.Widgets:Button" id="8cb8fb4e6729457eaade3b6eea4d1fef" transform="matrix(1,0,0,1,222,26.0625)"><p:metadata><p:property name="box">67.125,34.1875</p:property><p:property name="buttonText">X MENU</p:property><p:property name="textColor">#000000FF</p:property><p:property name="textFont">Calibri|bold|normal|12px|none</p:property><p:property name="textAlign">1,1</p:property><p:property name="disabled">false</p:property></p:metadata>
+            
+            <defs>
+                <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" p:name="linearFill" id="d5eeee04f3114b2fb75be6353aefba9a">
+                    <stop style="stop-color: rgb(250, 250, 250); stop-opacity: 1;" offset="0" p:name="stop1" id="0b6215e712a64de7a6da91f8e77e51c8"/>
+                    <stop style="stop-color: rgb(235, 235, 235); stop-opacity: 1;" offset="0.7" p:name="stop2" id="6b5fc5341cc64da49bb029c648154559"/>
+                    <stop style="stop-color: rgb(252, 252, 252); stop-opacity: 1;" offset="1" p:name="stop3" id="0fedf9b944c7415b8e6979269a64f065"/>
+                </linearGradient>
+            </defs>
+            <rect width="66.125" height="33.1875" rx="3" ry="3" x="0.5" y="0.5" style="fill: url(#d5eeee04f3114b2fb75be6353aefba9a); stroke: rgb(161, 150, 133); stroke-width: 1; stroke-linejoin: round; stroke-opacity: 1;" p:name="rect" id="3815da8dac38412986e958d689dacc8b"/>
+            <text x="31.5" y="17.25" style="font-size: 12px; font-style: normal; font-weight: bold; text-align: left; text-anchor: start; dominant-baseline: central; fill: rgb(0, 0, 0); font-family: Calibri; fill-opacity: 1; text-decoration: none;" xml:space="preserve" p:name="text" id="bd1983fef4ab41de853e0737c72a9085" transform="translate(-19,0)">X MENU</text>
+        </g><g p:type="Shape" p:def="Evolus.BasicWebElements:htmlLink" id="b4aada22b7e44b08a3f551876065638b" transform="matrix(1,0,0,1,28,237)"><p:metadata><p:property name="textContent">Gift Shop</p:property><p:property name="textFont">Gadugi|bold|normal|12px|none</p:property><p:property name="textColor">#009900FF</p:property><p:property name="customStyle"/></p:metadata>
+
+            <foreignObject x="0" y="0" width="53" height="17" p:name="htmlObject" id="911257896d014741986f2aecc3bfe427" style="color: rgb(0, 153, 0); font-family: Gadugi; font-size: 12px; font-weight: bold; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="7a8e680f408744b1b53df3b0cf4b0d7c" style="white-space: nowrap; text-decoration: underline; display: inline-block !important; "><div>Gift Shop</div></div>
+            </foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.BasicWebElements:htmlLink" id="0e1be61d36e049a98fca6c5b5fd56f66" transform="matrix(1,0,0,1,376,386)"><p:metadata><p:property name="textContent">Conservation</p:property><p:property name="textFont">Gadugi|bold|normal|12px|none</p:property><p:property name="textColor">#009900FF</p:property><p:property name="customStyle"/></p:metadata>
+
+            <foreignObject x="0" y="0" width="74" height="17" p:name="htmlObject" id="7454f639740d414499968494292ab708" style="color: rgb(0, 153, 0); font-family: Gadugi; font-size: 12px; font-weight: bold; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="291f18f3895d494ba95a5a3126ade5dc" style="white-space: nowrap; text-decoration: underline; display: inline-block !important; "><div>Conservation</div></div>
+            </foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.BasicWebElements:htmlLink" id="2e539fc7cefb444e926b106972c73d30" transform="matrix(1,0,0,1,376,261)"><p:metadata><p:property name="textContent">Things to do while at the zoo</p:property><p:property name="textFont">Gadugi|bold|normal|12px|none</p:property><p:property name="textColor">#009900FF</p:property><p:property name="customStyle"/></p:metadata>
+
+            <foreignObject x="0" y="0" width="164" height="17" p:name="htmlObject" id="96ab2700ae8447c3b66292449da516e9" style="color: rgb(0, 153, 0); font-family: Gadugi; font-size: 12px; font-weight: bold; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="044497a651c243f39c7fe622b964a170" style="white-space: nowrap; text-decoration: underline; display: inline-block !important; "><div>Things to do while at the zoo</div></div>
+            </foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.Common:RichTextBoxV2" id="d4155d570def40ebba4b09b55ef33067" transform="matrix(1,0,0,1,28,116)"><p:metadata><p:property name="width">200,0</p:property><p:property name="fixedWidth">false</p:property><p:property name="textContent">Already have tickets?</p:property><p:property name="textFont">Gadugi|bold|normal|13px|none</p:property><p:property name="textColor">#000000FF</p:property><p:property name="customStyle">
+                </p:property></p:metadata>
+
+            <foreignObject x="0" y="0" width="129" height="18" p:name="htmlObject" id="7d6ce8a557da4e81bbf8b2da3dcb1cc6" style="color: rgb(0, 0, 0); font-family: Gadugi; font-size: 13px; font-weight: bold; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="636222551efb4854a9e72d2e5a82236e" style="display: inline-block; white-space: nowrap; text-decoration: none;"><div>Already have tickets?</div></div>
+            </foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.GTK.Widgets:Button" id="d6a86938988c4bc9b891df206ea1e484" transform="matrix(1,0,0,1,38,56.0625)"><p:metadata><p:property name="box">117.125,40.1875</p:property><p:property name="buttonText">TICKETS</p:property><p:property name="textColor">#000000FF</p:property><p:property name="textFont">Calibri|bold|normal|12px|none</p:property><p:property name="textAlign">1,1</p:property><p:property name="disabled">false</p:property></p:metadata>
+            
+            <defs>
+                <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" p:name="linearFill" id="43473542e7534334ae90c4e7761767bf">
+                    <stop style="stop-color: rgb(250, 250, 250); stop-opacity: 1;" offset="0" p:name="stop1" id="2074b920164e4ec0b794aa00b9eea55e"/>
+                    <stop style="stop-color: rgb(235, 235, 235); stop-opacity: 1;" offset="0.7" p:name="stop2" id="371276817d7e4ef6934409e25df28315"/>
+                    <stop style="stop-color: rgb(252, 252, 252); stop-opacity: 1;" offset="1" p:name="stop3" id="381e01c9c5e0412e8c28f655d885d083"/>
+                </linearGradient>
+            </defs>
+            <rect width="116.125" height="39.1875" rx="3" ry="3" x="0.5" y="0.5" style="fill: url(#43473542e7534334ae90c4e7761767bf); stroke: rgb(161, 150, 133); stroke-width: 1; stroke-linejoin: round; stroke-opacity: 1;" p:name="rect" id="e2304d4f22a04bfebce419348866b23d"/>
+            <text x="31.5" y="17.25" style="font-size: 12px; font-style: normal; font-weight: bold; text-align: left; text-anchor: start; dominant-baseline: central; fill: rgb(0, 0, 0); font-family: Calibri; fill-opacity: 1; text-decoration: none;" xml:space="preserve" p:name="text" id="6c39d8aea52f4fc9ab7e84c946f2d04f" transform="translate(7,3)">TICKETS</text>
+        </g><g p:type="Shape" p:def="Evolus.BasicWebElements:htmlLink" id="97ef1a026908400aab57bc827b691a68" transform="matrix(1,0,0,1,28,141)"><p:metadata><p:property name="textContent">See events happening at the zoo</p:property><p:property name="textFont">Gadugi|bold|normal|12px|none</p:property><p:property name="textColor">#009900FF</p:property><p:property name="customStyle"/></p:metadata>
+
+            <foreignObject x="0" y="0" width="183" height="17" p:name="htmlObject" id="05780aa9565945a4babba5f765697578" style="color: rgb(0, 153, 0); font-family: Gadugi; font-size: 12px; font-weight: bold; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="daa84c1d9f934558bdb41a8a89ddd4e2" style="white-space: nowrap; text-decoration: underline; display: inline-block !important; "><div>See events happening at the zoo</div></div>
+            </foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.BasicWebElements:htmlLink" id="d26c26fb823541cfaf3d5a9f58e26064" transform="matrix(1,0,0,1,28,166)"><p:metadata><p:property name="textContent">Buy tickets for zoo rides</p:property><p:property name="textFont">Gadugi|bold|normal|12px|none</p:property><p:property name="textColor">#009900FF</p:property><p:property name="customStyle"/></p:metadata>
+
+            <foreignObject x="0" y="0" width="136" height="17" p:name="htmlObject" id="ff45feaac704435090d2c5f8c55b95dd" style="color: rgb(0, 153, 0); font-family: Gadugi; font-size: 12px; font-weight: bold; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="ad572445ebd2401e849da39a71a9aa2c" style="white-space: nowrap; text-decoration: underline; display: inline-block !important; "><div>Buy tickets for zoo rides</div></div>
+            </foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.Common:Line" id="4c2f140fbf214c89b57041d45a4fc81f" transform="matrix(1,0,0,1,12,216)"><p:metadata><p:property name="box">200,10</p:property><p:property name="strokeColor">#3333FFFF</p:property><p:property name="strokeStyle">1|</p:property></p:metadata>
+            <rect style="fill: #000000; fill-opacity: 0; stroke: none;" x="0" y="0" p:name="bgRect" id="bdcac1faaee542efb8b0ae5c69e6de79" width="200" height="10"/>
+            <path style="fill: none; stroke: rgb(51, 51, 255); stroke-width: 1; stroke-opacity: 1;" d="M 0 5 L 200 5" p:name="line1" id="00539e133d4e4edb8356307968594fe7" transform="translate(0.5,0.5)"/>
+        </g><g p:type="Shape" p:def="Evolus.BasicWebElements:htmlLink" id="b64b36475e864a5893bc76a2f0450f05" transform="matrix(1,0,0,1,28,356)"><p:metadata><p:property name="textContent">Learn at the Zoo</p:property><p:property name="textFont">Gadugi|bold|normal|12px|none</p:property><p:property name="textColor">#009900FF</p:property><p:property name="customStyle"/></p:metadata>
+
+            <foreignObject x="0" y="0" width="93" height="17" p:name="htmlObject" id="161355cc3e0d40a8a61327268cb2e152" style="color: rgb(0, 153, 0); font-family: Gadugi; font-size: 12px; font-weight: bold; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="ec28f68a334342858b1aac1fd06fa6c3" style="white-space: nowrap; text-decoration: underline; display: inline-block !important; "><div>Learn at the Zoo</div></div>
+            </foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.BasicWebElements:htmlLink" id="f37c08c16d404b1faaf5a27647bf4694" transform="matrix(1,0,0,1,28,327)"><p:metadata><p:property name="textContent">Conservation</p:property><p:property name="textFont">Gadugi|bold|normal|12px|none</p:property><p:property name="textColor">#009900FF</p:property><p:property name="customStyle"/></p:metadata>
+
+            <foreignObject x="0" y="0" width="74" height="17" p:name="htmlObject" id="bd9a677d98ce48dea621e387a86ef6a7" style="color: rgb(0, 153, 0); font-family: Gadugi; font-size: 12px; font-weight: bold; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="f7b2e3facc72404ca582837c10a0f549" style="white-space: nowrap; text-decoration: underline; display: inline-block !important; "><div>Conservation</div></div>
+            </foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.Common:Line" id="7636336382b8459694a4c015de8c5bc7" transform="matrix(1,0,0,1,11,305)"><p:metadata><p:property name="box">200,10</p:property><p:property name="strokeColor">#3333FFFF</p:property><p:property name="strokeStyle">1|</p:property></p:metadata>
+            <rect style="fill: #000000; fill-opacity: 0; stroke: none;" x="0" y="0" p:name="bgRect" id="7bb347a1357a40358a980ab281cd2a14" width="200" height="10"/>
+            <path style="fill: none; stroke: rgb(51, 51, 255); stroke-width: 1; stroke-opacity: 1;" d="M 0 5 L 200 5" p:name="line1" id="ad2d575fb92b4443a78eeacaf2790705" transform="translate(0.5,0.5)"/>
+        </g><g p:type="Shape" p:def="Evolus.BasicWebElements:htmlLink" id="44e9879c5a424b188ae83c2102b3b74d" transform="matrix(1,0,0,1,28,189)"><p:metadata><p:property name="textContent">Secure your parking spot</p:property><p:property name="textFont">Gadugi|bold|normal|12px|none</p:property><p:property name="textColor">#009900FF</p:property><p:property name="customStyle"/></p:metadata>
+
+            <foreignObject x="0" y="0" width="141" height="17" p:name="htmlObject" id="2fbbd4f3df3a48a7806530ae1f41c0a9" style="color: rgb(0, 153, 0); font-family: Gadugi; font-size: 12px; font-weight: bold; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="8d91fd3da1ea4b9886a4e3782958e304" style="white-space: nowrap; text-decoration: underline; display: inline-block !important; "><div>Secure your parking spot</div></div>
+            </foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.BasicWebElements:htmlLink" id="c7abdd82a7714cd9898ec3713a6dd5a9" transform="matrix(1,0,0,1,28,266)"><p:metadata><p:property name="textContent">Rewards</p:property><p:property name="textFont">Gadugi|bold|normal|12px|none</p:property><p:property name="textColor">#009900FF</p:property><p:property name="customStyle"/></p:metadata>
+
+            <foreignObject x="0" y="0" width="48" height="17" p:name="htmlObject" id="76e36515f8714f9c9096f9f4589b8b53" style="color: rgb(0, 153, 0); font-family: Gadugi; font-size: 12px; font-weight: bold; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="199a1a27b04b4cbfbfd51f280d0b233f" style="white-space: nowrap; text-decoration: underline; display: inline-block !important; "><div>Rewards</div></div>
+            </foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.Common:Line" id="377decb8cead4742829f9908ecbf5b22" transform="matrix(1,0,0,1,322,71)"><p:metadata><p:property name="box">271,10</p:property><p:property name="strokeColor">#3333FFFF</p:property><p:property name="strokeStyle">1|</p:property></p:metadata>
+            <rect style="fill: #000000; fill-opacity: 0; stroke: none;" x="0" y="0" p:name="bgRect" id="1d0a01f56a5c493a943a534ef946ca47" width="271" height="10"/>
+            <path style="fill: none; stroke: rgb(51, 51, 255); stroke-width: 1; stroke-opacity: 1;" d="M 0 5 L 271 5" p:name="line1" id="81f4ae3f611049eb9ff073ee9ba66ba3" transform="translate(0.5,0.5)"/>
+        </g><g p:type="Shape" p:def="Evolus.Common:Line" id="11536b9dc4494bbba68bb8cb1e62091c" transform="matrix(1,0,0,1,219,71)"><p:metadata><p:property name="box">77,10</p:property><p:property name="strokeColor">#3333FFFF</p:property><p:property name="strokeStyle">1|</p:property></p:metadata>
+            <rect style="fill: #000000; fill-opacity: 0; stroke: none;" x="0" y="0" p:name="bgRect" id="840e548705004eb0bf6533ae5c9b47fa" width="77" height="10"/>
+            <path style="fill: none; stroke: rgb(51, 51, 255); stroke-width: 1; stroke-opacity: 1;" d="M 0 5 L 77 5" p:name="line1" id="a37ad6cd95fd449b881e9f57bb89f72a" transform="translate(0.5,0.5)"/>
+        </g><g p:type="Shape" p:def="Evolus.Common:RichTextBoxV2" id="72773546deed41c8b36c5847eef9c107" transform="matrix(1,0,0,1,260,91)"><p:metadata><p:property name="width">200,0</p:property><p:property name="fixedWidth">false</p:property><p:property name="textContent">Heade</p:property><p:property name="textFont">Gadugi|bold|normal|13px|none</p:property><p:property name="textColor">#000000FF</p:property><p:property name="customStyle">
+                </p:property></p:metadata>
+
+            <foreignObject x="0" y="0" width="39" height="18" p:name="htmlObject" id="23d54fdf9b384dc2a322673b19a62f94" style="color: rgb(0, 0, 0); font-family: Gadugi; font-size: 13px; font-weight: bold; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="acfe55cfecf24ff78e9c8a253d0a64ce" style="display: inline-block; white-space: nowrap; text-decoration: none;"><div>Heade</div></div>
+            </foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.Common:RichTextBoxV2" id="85a6b2aa8c784b9ea981ca1fa6e41df6" transform="matrix(1,0,0,1,270,134)"><p:metadata><p:property name="width">200,0</p:property><p:property name="fixedWidth">false</p:property><p:property name="textContent">Toda</p:property><p:property name="textFont">Gadugi|normal|normal|13px|none</p:property><p:property name="textColor">#000000FF</p:property><p:property name="customStyle">
+                </p:property></p:metadata>
+
+            <foreignObject x="0" y="0" width="29" height="18" p:name="htmlObject" id="dedef87e78e648c1bc3da0f760825a03" style="color: rgb(0, 0, 0); font-family: Gadugi; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="853c10760daa4d938c6513a689f41fe1" style="display: inline-block; white-space: nowrap; text-decoration: none;"><div>Toda</div></div>
+            </foreignObject>
+        </g><g p:type="Shape" p:def="Evolus.AndroidICSHIFI:menuIcon" id="adc867154726468293549d735bdea136" transform="matrix(1.0000001192092896,-1.1102230246251565e-16,1.1102230246251565e-16,1.0000001192092896,486,27)"><p:metadata><p:property name="type">search_light</p:property></p:metadata>
+            <image x="0" y="0" width="32" height="32" preserveAspectRatio="none" p:name="image" id="57c2780396a341bf9f0421025f914dbd" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAAAmJLR0QA/4ePzL8AAAAJcEhZcwAAAEgAAABIAEbJaz4AAAAJdnBBZwAAACAAAAAgAIf6nJ0AAAJiSURBVEjHzdXPq1VVFAfwz9773QbyRg1MMTQjrQitNwjlqoEIQQURUjTUgRHZJDg4S5w0CTkDFdR/4iHxzJFa9IMXSIMQfwWCk3CQmNKgwb3n7AbnXN/pvnufz1Guydlnnb2+68d3rXX4vyVMUhadc/kkAMVIFwUZQVbLKwGFZeapMSlHmiCqpkOEMfOotsbb3vWi2g0LvjcU1dMgwpj3ygdO2Kh2T/Ks4KrDfpKmRRE756RyxDnBIeut95yNjtjkRx+rpMfUoEgq+8275EMPhDJTBNkLLnjZTldEdTkZoGjqvcYt0Tb39VQtC8nAK676xZ4VUiib53ued8x9PQO1LKsN9Nz0td3eZFIa8VEEvIMFDCmVI28VvsFbJrbdqIg1Nrvrz+7HEjJuY+vkInZZqKT/vHf5aSKZBtDW4Ja1NjSBFkvdEVvv11YAKJpAz+MjzDS6YunGAVxuE12BxuA3m21zR0+tRhQN9P3snP2iPJqSSY0U1fb4wXXvu912f1Trm7fOPpcleTlEy2xBltxxwyc+NesvA7O2+9JJs4I3LHgoNA77Fscj6AzTnFN2yQKyYN5xZ8y5qXLRF+OJjI9zUglet9dLsusu+h0bfGeLoRmnfd7dGJMXSlZ3FkpC7VdzBkIL0dkPne5etKhPliWpH/tRbKnLXrVTllR2WOtbYUIE06Ql+bTPDCVDPV85KqnKsVaeZt6002FnzRiq8NoyGqfLov7o5oJ1dpjxj0P+aFbOKgA6ENF5z/jbwWY7Nd2wiho8SiQI7TSEJRofW4NG2s2QJUlsfjVWy8JYOZcAnxL5F9TovrAKugeRAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDExLTAxLTI4VDIyOjQ3OjUzLTA4OjAwpE5yyQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxMS0wMS0yOFQyMjo0Nzo1My0wODowMNUTynUAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAAAAElFTkSuQmCC"/>
+        </g></g></g></svg>

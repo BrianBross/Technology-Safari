@@ -10,4 +10,3 @@ menu_button.addEventListener("click", () => {
     })   
 
 });
-
