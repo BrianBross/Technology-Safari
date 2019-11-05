@@ -10,7 +10,8 @@
 }
 
 .footer {
-    background-color: #777; 
+    text-align: center;
+    background-color: #4D4439; 
     
     }
     
@@ -149,5 +150,12 @@
     width:980px;
     height:380px;
     overflow:hidden;
+}
+
+.sponsor-link{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
