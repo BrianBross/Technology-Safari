@@ -12,6 +12,20 @@
   z-index: 9;
 }
 
+.home-header {
+  background-image: linear-gradient(rgba(24, 1, 1, 0.25), rgba(24, 1, 1, 0.25)),
+    url("https://photos.smugmug.com/Portfolio/Zoos/Columbus-Zoo/Columbus-Zoo-8202011/i-TX42j8Z/0/7ac664f8/L/ColumbusZoo_8-20-2011_0004-L.jpg");
+  background-color: #cccccc;
+  /*  background-position: center;  Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  height: 85%;
+  text-align: center;
+  /* padding-top: 40px; */
+  position: relative;
+  z-index: 9;
+}
+
 .event-logo {
   /* left: 0;
   bottom: 0;
@@ -154,6 +168,26 @@
   font-weight: bold;
   /* font-size: 3em; */
   /* text-align: left; */
+}
+
+
+.footer {
+background-color: #777; 
+
+}
+
+.social-list li {
+list-style-type: none;
+margin: 2px 7px;
+display: inline-block;
+font-size: 5px;
+transition: .5s;
+
+}
+
+.main-wrapper {
+  position: relative;
+  min-height: 100vh;
 }
 
 #lion {
