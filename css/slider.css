@@ -9,6 +9,19 @@
     background-image: url("../images/zoo-background.jpg");
 }
 
+.footer {
+    background-color: #777; 
+    
+    }
+    
+.social-list li {
+    list-style-type: none;
+    margin: 2px 7px;
+    display: inline-block;
+    font-size: 5px;
+    transition: .5s;
+    }    
+
 /*jssor slider loading skin spin css*/
 .jssorl-009-spin img {
     animation-name: jssorl-009-spin;
