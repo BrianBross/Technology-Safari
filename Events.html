@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Columbus Zoo And Aquarium</title>
+    <link rel="stylesheet" href="../Technology-Safari/css/header.css">
+    <link rel="stylesheet" href="../Technology-Safari/css/slider.css">
+</head>
+
+
+    <div class="wrapper">
+        <header class="header-main">
+            <section class="header-main__properties">
+                <div class="header-main__properties-search header-main__properties-item">
+                    <img class="search-button" src="images/searchicon.png">
+                    <!-- <form class="search-form" action="/action_page.php" style="margin:auto;max-width:300px">
+                <input type="text" placeholder="Search.." name="search2">
+                <button type="submit" class="seach-button"></button>
+            </form> -->
+                </div>
+                <article class="header-main__properties-item"><a
+                        href="http://thewilds.columbuszoo.org/home">|TheWilds|</a>
+                </article>
+                <article class="header-main__properties-item"><a
+                        href="https://zoombezibay.columbuszoo.org/home">|Zoombezi|</a>
+                </article>
+                <article class="header-main__properties-item"><a
+                        href="https://safarigolf.columbuszoo.org/home">|Safari|</a>
+                </article>
+            </section>
+            <section class="header-main__zoo-home">
+
+                <a href="../Technology-Safari/HeroNearbySliderWithHeaderAndCards.html"><img class="image-icon"
+                        src="https://giraffeconservation.org/wp-content/uploads/2016/05/Columbus-Zoo-bw.png"
+                        alt="Zoo Icon"></a>
+
+            </section>
+            <section class="header-main__tickets">
+                    <article class="header-main__donatebutton">LOG-IN</article>
+                <article class="header-main__donatebutton">DONATE</article>
+                <article class="header-main__ticketsbutton">BUY TICKETS</article>
+
+            </section>
+            <section class="header-main__navigation">
+                <div class="nav-container">
+                    <article class="header-main__navigation-item"><a
+                            href="../Technology-Safari/index.html">Admissions</a>
+                    </article>
+                    <article class="header-main__navigation-item"><a href="../Technology-Safari/index.html">Animals</a>
+                    </article>
+                    <article class="header-main__navigation-item"><a
+                            href="../Technology-Safari/index.html">KnowBeforeYouGo</a></article>
+                    <article class="header-main__navigation-item"><a
+                            href="../Technology-Safari/index.html">Conservation</a>
+                    </article>
+                    <article class="header-main__navigation-item"><a
+                            href="../Technology-Safari/index.html">LearnAtTheZoo</a></article>
+                </div>
+            </section>
+        </header>
+
+
+
+        <!-- #region Jssor Slider Begin -->
+
+        <script src="js/jssor.slider-28.0.0.min.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            window.jssor_1_slider_init = function () {
+
+                var jssor_1_options = {
+                    $AutoPlay: 1,
+                    $SlideWidth: 760,
+                    $ArrowNavigatorOptions: {
+                        $Class: $JssorArrowNavigator$
+                    },
+                    $BulletNavigatorOptions: {
+                        $Class: $JssorBulletNavigator$
+                    }
+                };
+
+                var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options);
+
+                /*#region responsive code begin*/
+
+                var MAX_WIDTH = 1200;
+
+                function ScaleSlider() {
+                    var containerElement = jssor_1_slider.$Elmt.parentNode;
+                    var containerWidth = containerElement.clientWidth;
+
+                    if (containerWidth) {
+
+                        var expectedWidth = Math.min(MAX_WIDTH || containerWidth, containerWidth);
+
+                        jssor_1_slider.$ScaleWidth(expectedWidth);
+                    }
+                    else {
+                        window.setTimeout(ScaleSlider, 30);
+                    }
+                }
+
+                ScaleSlider();
+
+                $Jssor$.$AddEvent(window, "load", ScaleSlider);
+                $Jssor$.$AddEvent(window, "resize", ScaleSlider);
+                $Jssor$.$AddEvent(window, "orientationchange", ScaleSlider);
+                /*#endregion responsive code end*/
+            };
+        </script>
+
+        <div id="jssor_1">
+            <!-- Loading Screen -->
+            <!-- <div data-u="loading" class="jssorl-009-spin">
+            <img style="margin-top:-19px;position:relative;top:50%;width:38px;height:38px;" src="images/hero/spin.svg" />
+        </div> -->
+            <div data-u="slides" class="slides-container">
+                <div>
+                    <img data-u="image" src="images/hero/FRONThero.jpg" />
+                </div>
+                <div>
+                    <img data-u="image" src="images/hero/KNOWhero.jpg" />
+                </div>
+                <div>
+                    <img data-u="image" src="images/hero/EVENTShero.jpg" />
+                </div>
+                <div>
+                    <img data-u="image" src="images/hero/HOURShero.jpg" />
+                </div>
+                <div>
+                    <img data-u="image" src="images/hero/MEMBERhero.jpg" />
+                </div>
+                <div>
+                    <img data-u="image" src="images/hero/BEHINDSCENEShero.jpg" />
+                </div>
+                <div>
+                    <img data-u="image" src="images/hero/JOBSandOPPORTUNITIEShero.png" />
+                </div>
+                <div>
+                    <img data-u="image" src="images/hero/RIDESandATTRACTIONShero.jpg" />
+                </div>
+
+            </div>
+            <!-- Bullet Navigator -->
+            <!-- <div data-u="navigator" class="jssorb051" style="position:absolute;bottom:12px;right:12px;" data-autocenter="1" data-scale="0.5" data-scale-bottom="0.75">
+            <div data-u="prototype" class="i" style="width:16px;height:16px;">
+                <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                    <circle class="b" cx="8000" cy="8000" r="5800"></circle>
+                </svg>
+            </div>
+        </div> -->
+            <!-- Arrow Navigator -->
+            <div data-u="arrowleft" class="jssora051-left" data-autocenter="2" data-scale="0.75" data-scale-left="0.75">
+                <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                    <polyline class="a" points="11040,1920 4960,8000 11040,14080 "></polyline>
+                </svg>
+            </div>
+            <div data-u="arrowright" class="jssora051-right" data-autocenter="2" data-scale="0.75"
+                data-scale-right="0.75">
+                <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+                    <polyline class="a" points="4960,1920 11040,8000 4960,14080 "></polyline>
+                </svg>
+            </div>
+        </div>
+        <script type="text/javascript">jssor_1_slider_init();
+        </script>
+        <!-- #endregion Jssor Slider End -->
+<body>
+
+        <!--Start of Cards-->
+        <section class="card-container">
+            <h1 class="card-heading">Events</h1>
+            <div class="content">
+                
+                    <div class="month">      
+                            <ul>
+                              <li class="calprev">&#10094;</li>
+                              <li class="calnext">&#10095;</li>
+                              <li>
+                                <p id="month"></p><br>
+                                <span id="year" style="font-size:18px">2017</span>
+                              </li>
+                            </ul>
+                          </div>
+                          
+                          <ul class="weekdays">
+                            <li>Mo</li>
+                            <li>Tu</li>
+                            <li>We</li>
+                            <li>Th</li>
+                            <li>Fr</li>
+                            <li>Sa</li>
+                            <li>Su</li>
+                          </ul>
+                          
+                          <ul class="days"> 
+                              <li> </li> 
+                              <li> </li> 
+                              <li> </li> 
+                              <li> </li> 
+                              
+                            <li>1</li>
+                            <li>2</li>
+                            <li>3</li>
+                            <li>4</li>
+                            <li>5</li>
+                            <li>6</li>
+                            <li>7</li>
+                            <li class="date"><span class="active">8</span></li>
+                            <li>9</li>
+                            <li>10</li>
+                            <li>11</li>
+                            <li>12</li>
+                            <li>13</li>
+                            <li>14</li>
+                            <li>15</li>
+                            <li>16</li>
+                            <li>17</li>
+                            <li>18</li>
+                            <li>19</li>
+                            <li>20</li>
+                            <li>21</li>
+                            <li>22</li>
+                            <li>23</li>
+                            <li>24</li>
+                            <li>25</li>
+                            <li>26</li>
+                            <li>27</li>
+                            <li>28</li>
+                            <li>29</li>
+                            <li>30</li>
+                            <li>31</li>
+                          </ul>
+    
+                            
+                            </div>
+        
+                <div class="card-wrapper">
+                <div class="card">
+                    <a href=# href lang="en">
+                        <img src="https://columbuszoo.org/Media/images/default-source/default-album/veterans-day-2019-website-thumbnail.jpg?sfvrsn=6352b4a6_0" alt="Veterans-Day-2019-website-thumbnail" class="card-img"></a>
+                    <p class="about">Veterans Free Day At The Zoo </p>
+                    <a href=# class="btn">Learn More</a>
+                </div>
+                
+                <div class="card">
+                        <a href=# href lang="en">
+                            <img src="https://columbuszoo.org/Media/images/default-source/default-album/wildlights-website-thumbnail-member-new.jpg?sfvrsn=c7acb4a6_0" alt="Wildlights-website-thumbnail-Member NEW" class="card-img"></a>
+                        <p class="about">Wildlights Member Night presented by Wendy's</p>
+                        <a href=# class="btn">Learn
+                            More</a>
+                    </div>
+
+                <div class="card">
+                    <a href=# href lang="en">
+                        <img src="https://columbuszoo.org/Media/images/default-source/default-album/wildlights-website-thumbnail-stuff_the_truck.jpg?sfvrsn=58afb4a6_0" alt="Wildlights-website-thumbnail-Stuff_the_Truck" class="card-img"></a>
+                    <p class="about">Wildlights Stuff The Truck Food Drive</p>
+                    <a href=# class="btn">Learn More</a>
+                </div>
+                
+                <div class="card">
+                        <a href=# href lang="en">
+                            <img src="https://columbuszoo.org/Media/images/default-source/default-album/wildlights-website-thumbnail-general.jpg?sfvrsn=dbafb4a6_0" alt="Wildlights-website-thumbnail-General" class="card-img"></a>
+                        <p class="about">Wildlights efficiently powered by AEP</p>
+                        <a href=# class="btn">Learn
+                            More</a>
+                    </div>
+
+                <div class="card">
+                        <a href=# href lang="en">
+                            <img src="https://columbuszoo.org/Media/columbus-zoo-aquarium-2/wildlights-1406---grahm-s-jones-columbus-zoo-and-aquarium.jpg?sfvrsn=ddfdd1a6_2" alt=" Wildlights 1406 - Grahm S. Jones, Columbus Zoo and Aquarium" class="card-img"></a>
+                        <p class="about">Jack Hanna's Home For The Holidays</p>
+                        <a href=# class="btn">Learn
+                            More</a>
+                    </div>
+
+                <div class="card">
+                    <a href=# href lang="en">
+                        <img src="https://columbuszoo.org/Media/images/default-source/default-album/tso22020.jpg?sfvrsn=cabb4a6_0" alt="tso22020" class="card-img"></a>
+                    <p class="about">Zoo Day with Trans-Siberian Orchestra at Nationwide</p>
+                    <a href=# class="btn">Learn
+                        More</a>
+                </div>
+            </div>
+
+        </section>
+        <!--End of Cards-->
+
+        <footer class="footer">
+       <a href="https://www.columbuszoo.org/home/about/meet-our-partners"><img src="images/sponsors.PNG" alt="Sponsors image" class="sponsor-link"></a>
+            <small>4850 Powell Rd, Powell, Oh 43065
+              &copy;2019 Columbus Zoo and Aquarium</small>
+            <ul class="social-list">
+              <li><a href="https://www.facebook.com/columbuszoo"><img class="icon-link -facebook" src="https://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Facebook-256.png" height="50px" alt="Facebook"></a></li>
+              <li><a href="https://www.instagram.com/columbuszoo/"><img class="icon-link -instagram" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-black/512/instagram-256.png" height="50px" alt="Instagram"></a></li>
+              <li><a href="https://twitter.com/ColumbusZoo"><img class="icon-link -twitter" src="https://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/Twitter-256.png" height="50px" alt="Twitter"></a></li>
+              <li><a href="https://www.youtube.com/user/Columbuszoomedia"><img class="icon-link -youtube" src="https://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/YouTube-256.png "height="50px" alt="Youtube"></a></li>
+              <li><a href="https://www.pinterest.com/columbuszoo/"><img class="icon-link -pintrest" src="https://cdn3.iconfinder.com/data/icons/peelicons-glyph/512/pintrest__social__media__icon-256.png" height="50px" alt="Pintrest"></a></li>
+              <li><a href="https://www.snapchat.com/add/ColumbusZoo"><img class="icon-link -snapchat" src="https://cdn3.iconfinder.com/data/icons/peelicons-glyph/512/snapchat_social__media_icon-256.png" height="50px" alt="Snapchat"></a></li>
+            </ul>
+            </footer>
+    </div>
+    <script type="text/javascript" src="calendar.js"></script>
+</body>
+
+
+
+</html>

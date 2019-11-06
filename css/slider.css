@@ -1,0 +1,248 @@
+
+
+.wrapper{
+    position:absolute;
+    padding:0px; 
+    margin:0px; 
+    background-color:#fff;
+    font-family:arial,helvetica,sans-serif,verdana,'Open Sans';
+    background-image: url("../images/zoo-background.jpg");
+}
+
+.footer {
+    text-align: center;
+    background-color: #4D4439; 
+    
+    }
+    
+.social-list li {
+    list-style-type: none;
+    margin: 2px 7px;
+    display: inline-block;
+    font-size: 5px;
+    transition: .5s;
+    }    
+
+/*jssor slider loading skin spin css*/
+.jssorl-009-spin img {
+    animation-name: jssorl-009-spin;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes jssorl-009-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+/*jssor slider bullet skin 051 css*/
+.jssorb051 .i {
+    position:absolute;
+    cursor:pointer;
+}
+
+.jssorb051 .i .b {
+    fill:#fff;
+    fill-opacity:0.5;
+}
+
+.jssorb051 .i:hover .b {
+    fill-opacity:.7;
+}
+
+.jssorb051 .iav .b {
+    fill-opacity: 1;
+}
+
+.jssorb051 .i.idn {
+    opacity:.3;
+}
+
+/*jssor slider arrow skin 051 css*/
+.jssora051-left {
+    width:65px;
+    height:65px;
+    top:0px;
+    left:35px;
+    display:block;
+    position:absolute;
+    cursor:pointer;
+}
+
+.jssora051-left .a {
+    fill:none;
+    stroke:#fff;
+    stroke-width:360;
+    stroke-miterlimit:10;
+}
+
+.jssora051-left:hover {
+    opacity:.8;
+}
+
+.jssora051-left.jssora051dn {
+    opacity:.5;
+}
+
+.jssora051-left.jssora051ds {
+    opacity:.3;
+    pointer-events:none;
+}
+
+.jssora051-right {
+    width:65px;
+    height:65px;
+    top:0px;
+    right:35px;
+    display:block;
+    position:absolute;
+    cursor:pointer;
+}
+
+.jssora051-right .a {
+    fill:none;
+    stroke:#fff;
+    stroke-width:360;
+    stroke-miterlimit:10;
+}
+
+.jssora051-right:hover {
+    opacity:.8;
+}
+
+.jssora051-right.jssora051dn {
+    opacity:.5;
+}
+
+.jssora051-right.jssora051ds {
+    opacity:.3;
+    pointer-events:none;
+}
+
+#jssor_1{
+    z-index:0;
+    position:absolute;
+    margin:0 auto;
+    top:0px;
+    left:0px;
+    width:980px;
+    height:380px;
+    overflow:hidden;
+    visibility:hidden;
+}
+
+.jssorl-009-spin {
+    position:absolute;
+    top:0px;
+    left:0px;
+    width:100%;
+    height:100%;
+    text-align:center;
+    background-color:rgba(0,0,0,0.7);
+}
+
+.slides-container {
+    cursor:default;
+    position:relative;
+    top:0px;
+    left:0px;
+    width:980px;
+    height:380px;
+    overflow:hidden;
+}
+
+.sponsor-link{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.date-info {
+    left: 0;
+    bottom: 10;
+    /* position: absolute; */
+    /* max-width: 500px; */
+  
+    overflow: hidden;
+  }
+  .date-hero-text {
+    color: white;
+    text-align: left;
+    padding-top: 250px;
+    padding-left: 10px;
+    margin: 0px;
+    font-size: 24px;
+    float: left;
+    bottom: 0;
+  }
+  
+  .month {
+    padding: 70px 25px;
+    width: 100%;
+    background: #1abc9c;
+    text-align: center;
+  }
+  
+  .month ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .month ul li {
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+  }
+  
+  .month .calprev {
+    float: left;
+    padding-top: 10px;
+  }
+  
+  .month .calnext {
+    float: right;
+    padding-top: 10px;
+  }
+  
+  .weekdays {
+    margin: 0;
+    padding: 10px 0;
+    background-color: #ddd;
+  }
+  
+  .weekdays li {
+    display: inline-block;
+    width: 13.6%;
+    color: #666;
+    text-align: center;
+  }
+  
+  .days {
+    padding: 10px 0;
+    background: #eee;
+    margin: 0;
+  }
+  
+  .days li {
+    list-style-type: none;
+    display: inline-block;
+    width: 13.6%;
+    text-align: center;
+    margin-bottom: 5px;
+    font-size: 12px;
+    color: #777;
+  }
+  
+  .days li .active {
+    padding: 5px;
+    background: #1abc9c;
+    color: white !important;
+  }
+  
+  .date {
+    cursor: pointer;
+  }
+

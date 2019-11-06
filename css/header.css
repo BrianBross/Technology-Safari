@@ -1,0 +1,292 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    color: var(--accent);
+    text-decoration: none;
+}
+
+a:hover{
+    color: var(--secondary-action);
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    background-image: url("../images/zoo-background.jpg");
+}
+
+
+.hero-image-container{
+    /* "https://columbuszoo.org/Media/images/default-source/default-album/zooentrance-grahms-jonescolumbuszooandaquarium(1)4c6ad232bd2f67d7bdc2ff0000bf4b43.jpg?sfvrsn=e45b5a6_0" */
+    background-size: 90vw;
+    width: 90vw;
+}
+
+html {
+    --accent: #B9D989;
+    --dark: #372D21;
+    --light: #F9F8F5;
+    --primary-action: #F47048;    
+    --secondary-action: #5DB2C3; 
+    font: 20px/1;   
+}
+
+form.search-form input[type=text] {
+    padding: 6px;
+    font-size: 12px;
+    border: 1px;;
+    float: left;
+    width: 80%;
+    background: var(--light);
+  }
+  
+  form.search-form button {
+    background-image: url("../images/searchicon.jpg");
+    float: left;
+    width: 20%;
+    padding: 6px;
+    background: var(--secondary-action);
+    color: white;
+    font-size: 12px;
+    border: 1px;
+    cursor: pointer;
+  }
+  
+  form.search-form button:hover {
+    background: var(--primary-action);
+  }
+  
+  form.search-form::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+.header-main{
+    z-index: 1;
+    position: relative;
+    display: grid;
+    grid-template-columns: 45% 10% 45%;
+    grid-template-rows: repeat(2, auto);
+    grid-template-areas: "properties home tickets" "nav nav nav";
+}
+
+.header-main__donatebutton{
+    padding: 8px;
+    margin: 20px;
+    background-color: var(--secondary-action);
+}
+
+.header-main__properties{
+    grid-area: properties;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px;
+    font-size: .8rem;
+}
+
+.header-main__ticketsbutton{
+    padding: 8px;
+    margin: 20px;
+    background-color: var(--primary-action);
+}
+
+.header-main__tickets{
+    grid-area: tickets;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 10px;
+}
+
+.header-main__navigation{
+    grid-area: nav;
+    grid-column: span 3;
+    font-size: 1.2rem;
+}
+
+.header-main__navigation-item {
+    margin: 2.5rem;
+    padding: 1.5rem;
+    text-shadow: 2px 2px 3px var(--accent);
+}
+
+.header-main__properties-item{
+    padding: 3px;
+    display: flex;
+    justify-content: center;
+}
+
+.header-main__zoo-home{
+    grid-area: home;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.image-icon {
+    max-height: 80px;
+    max-width: 80px;
+}
+
+.logo-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.nav-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.search-button{
+    height: 1rem;
+}
+
+.card-container {
+    margin-top: 20rem;
+}
+
+.card-heading {
+    text-transform: uppercase;
+    font-size: 3.5rem;
+    letter-spacing: 3px;
+    margin-right: -3px;
+    margin-bottom: 5rem;
+    text-align: center;
+    color: black;
+    position: relative;
+}
+
+.card-heading::after{
+    content: "";
+    width: 10rem;
+    height: .8rem;
+    background-color: #5DB2C3;
+    position: absolute;
+    bottom: -2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 2rem;
+}
+
+.card-wrapper{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.card{
+    width: 18rem;
+    background-color: #ebeef8;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    margin: 2rem 0;
+    box-shadow: .5rem .5rem 3rem rgba(0,0,0,0.2);
+}
+
+.card .card-img{
+    width: 100%;
+    height: 26rem;
+    object-fit: cover;
+}
+
+.card h1{
+    font-size: 2.5rem;
+    color: #333;
+    margin: 1.5rem 0;
+    text-align: center;
+}
+
+.about{
+    color: #333;
+    font-size: 1.5rem;
+    font-weight: 300;
+    text-align: center;
+
+}
+
+.card .btn{
+    padding: 1rem 2.5rem;
+    background-color: #5DB2C3;
+    border-radius: 2rem;
+    margin: 1rem 0;
+    text-transform: uppercase;
+    color: #B9D989;
+    font-size: 1.4rem;
+    transition: all .5s;
+}
+
+.card .btn:hover{
+    transform: translateY(-2px);
+    box-shadow: .5rem .5rem 2rem rgba(0,0,0,0.2);
+}
+
+.card .btn:active{
+    transform: translateY(0);
+    box-shadow: none;
+}
+
+@media screen and (min-width: 700px){
+    .card-wrapper{
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .card{
+        margin: 2rem;
+        transition: transform .5s;
+    }
+
+    @keyframes fadeIn {
+        from{
+            opacity: 0;
+        }
+        to{
+            opacity: 1;
+        }
+    }
+
+        .card:nth-child(1){
+        animation: fadeIn .5s .5s backwards;
+    }
+        .card:nth-child(2){
+        animation: fadeIn .5s 1s backwards;
+    }
+        .card:nth-child(3){
+        animation: fadeIn .5s 1.5s backwards;
+    }
+        .card:nth-child(4){
+        animation: fadeIn .5s 2s backwards;
+    }
+        .card:nth-child(5){
+        animation: fadeIn .5s 2.5s backwards;
+    }
+        .card:nth-child(6){
+        animation: fadeIn .5s 3s backwards;
+    }
+
+    .card:hover{
+        transform: scale(1.025)
+    }
+
+}

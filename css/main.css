@@ -1,0 +1,138 @@
+/* @import url("color_scheme.css"); */
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    --accent: #B9D989;
+    --dark: #372D21;
+    --light: #F9F8F5;
+    --primary-action: #F47048;    
+    --secondary-action: #5DB2C3;    
+}
+
+.footer {
+    align-items: center;
+    background-color: var(--dark);
+    display: flex;
+    height: 3rem;
+    justify-content: center;
+    color: var(--light);
+}
+
+.footer__wrapper {
+    grid-area: "footer";
+}
+
+.header_menu {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    max-height: 100%;
+    max-width: 5rem;
+    padding: 1rem;
+}
+
+.hero__image {
+    max-width: 100%;
+    height: auto;
+}
+
+img {
+    max-width: 10%;
+    height: auto;
+    background-color: var(--dark);
+    color: var(--light);
+    grid-area: "footer";
+}
+
+.image-icon {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.logo-section__container {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    max-width: 5rem;
+}
+
+.main__header {
+    background-color: var(--dark);
+    color: var(--light);
+    grid-area: "header";
+}
+
+.main__header-row {
+    align-items: stretch;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.main__content {
+    background-color: var(--light);
+    color: var(--dark);
+    grid-area: "content";
+}
+
+.main__wrapper {
+    grid-template-areas: "header" "content" "footer";
+    grid-template-rows: 10% 5% 75% 10%;
+    
+}
+
+.menu__button {
+    background-color: var(--secondary-action);
+    border-radius: 25%;
+    border-style: solid;
+    margin: 1.5rem;
+    padding: .25rem;
+}
+
+.nav {
+    background-color: var(--dark);
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;    
+}
+
+.nav__container {
+    margin-top: 1rem;
+}
+
+.nav__list {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.nav__list-item {
+    color: var(--accent);
+    padding: 1rem;
+    text-decoration: none;
+}
+
+.side-menu {
+    background-color: var(--accent);
+}
+
+.side-menu__list-item {
+    color: var(--dark);
+    padding: 1rem;
+    text-decoration: none;
+}
+
+@media( max-width: 500px ) {
+img {
+    max-width: 10%;
+    height: auto;
+}
+}
